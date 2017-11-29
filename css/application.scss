@@ -9,8 +9,12 @@ body {
 }
 .container {
   max-width: 85rem;
-  
 }
+
+.sm-container {
+  max-width: 42rem;
+}
+
 .flex-section {
   height: 0;
   padding-bottom: 85%; /* Photo size on mobile */
@@ -81,21 +85,21 @@ body {
   line-height: 1.2; /* 32px */
   }
 
-.h1 {
+.h1, .prose h1 {
   font-size: 1.9rem; /* 40px */
   line-height: 1.2; /* 46px */
   letter-spacing: 2.5px;
 }
-.h2, .legal strong {
+.h2, .prose h2 .legal strong {
   font-size: 1.5rem; /* 40px */
   line-height: 1.3; /* 46px */
   letter-spacing: 1.8px;
 }
-.h5 {
+.h5, .prose h5 {
   font-size: 1.125rem; /* 18px*/
   line-height: 1.5; /* 27px */
 }
-.p {
+.p, .prose p {
   font-size: 1.3rem; /* 20px*/
   line-height: 1.5; /* 30px */
   letter-spacing: 0.6px;
@@ -172,7 +176,7 @@ body {
   position: relative;
   z-index: 2;
 }
-.small {
+.small, .prose .small{
   font-size: 11px;
 }
 
