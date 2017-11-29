@@ -1,7 +1,7 @@
 ---
 title: Manual
 date: 2017-11-29 01:31:00 Z
-Steps:
+steps:
 - "[www.shareenso.com](/)"
 - |-
   Enso will fully charge in an hour and a half.
@@ -15,3 +15,6 @@ Steps:
   ![Colors and BPM](/img/colors.png)
 ---
 
+{% for step in page.steps %}
+  {{ step }}
+{% endfor %}
