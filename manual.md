@@ -10,9 +10,33 @@ steps:
 
   Hold Enso in your palm, wood side down. Allow fifteen seconds for it to find your heartbeat.
 - |-
+  To turn Enso on or off, tap it firmly twice.
+
+  Hold Enso in your palm, wood side down. Allow fifteen seconds for it to find your heartbeat.
+- |-
   Enso’s colors shift with your heart rate to remind you to pause and breathe.
 
   ![Colors and BPM](/img/colors.png)
+- |-
+  Enso is a tool for deeper connection with yourself and loved ones.
+
+  To share your heartbeat and save the heartbeat of those you love, download the “Share Enso” app in the Apple or Google app stores.
+- |-
+  Enso is crafted from sustainably harvested maple wood and finished by hand.
+
+  The box is made of wildflower seed paper and compostable foam — plant it to grow wildflowers.
+- |-
+  Please share Enso with loved ones. On social media, use the hashtag #shareenso to share your experience.
+
+  Join our community on Instagram and Facebook.
+
+  If you have questions or feedback, please go to our FAQ or contact us at support@shareenso.com.
+- |-
+  This device complies with part 15 of the FCC Rules. Operation is subject to the following two conditions: (1) This device may not cause harmful interference, and (2) this device must accept any interference received, including interference that may cause undesired operation.”
+
+  Please note: Enso has been tested and found to comply with the limits for a Class B digital device, pursuant to part 15 of the FCC Rules. These limits are designed to provide reasonable protection against harmful interference in a residential installation. This equipment generates, uses and can radiate radio frequency energy and, if not installed and used in accordance with the instructions, may cause harmful interference to radio communications. However, there is no guarantee that interference will not occur in a particular installation. If this equipment does cause harmful interference to radio or television reception, which can be determined by turning the equipment off and on, the user is encouraged to try to correct the interference by one or more of the following measures: a) Reorient or relocate the receivingantenna, b) increase the separation between the equipment and receiver, c) connect the equipment into an outlet on a circuit different from that to which the receiver is connected, d) consult the dealer or an experienced radio/TV technician for help.
+
+  CAN ICES-3 (B)/NMB-3(B)
 ---
 
 {% for step in page.steps %}
