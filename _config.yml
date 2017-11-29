@@ -24,8 +24,8 @@ permalink: pretty
 description: Keep the heartbeat of someone you love... forever.
 image: http://shareenso.com/self-hug.jpg
 email: support@shareenso.com
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 twitter_username: jekyllrb
 github_username: jekyll
 markdown: kramdown
