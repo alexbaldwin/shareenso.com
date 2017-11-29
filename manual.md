@@ -1,6 +1,7 @@
 ---
 title: Manual
 date: 2017-11-29 01:31:00 Z
+bg_white: true
 steps:
 - "[www.shareenso.com](/)"
 - |-
@@ -39,6 +40,10 @@ steps:
   CAN ICES-3 (B)/NMB-3(B)
 ---
 
+<section class="flex flex-wrap manual">
 {% for step in page.steps %}
-  {{ step | markdownify }}
+<div class="col-12 md-col-6 lg-col-3 flex flex-column flex-center manual-cell center">
+{{ step | markdownify }}
+</div>
 {% endfor %}
+</section>

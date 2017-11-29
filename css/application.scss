@@ -145,6 +145,38 @@ body {
     100% { opacity: 0; }
 }
 
+
+/* Page specific CSS for manual */
+.manual {
+  border: 1rem solid white;
+  box-shadow: inset 0 0 0 1px white;
+  position: relative;
+}
+.manual::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: transparent;
+  border: 1px solid white;
+  pointer-events: none;
+}
+.manual-cell {
+  box-shadow: inset 0 0 0 0.5px rgba(255,127,80,0.15);
+  padding: 2rem;
+  box-sizing: border-box;
+}
+.manual-cell p {
+  position: relative;
+  z-index: 2;
+}
+.small {
+  font-size: 11px;
+}
+
+
 /* Flickity Carousel styling */
 .flickity-prev-next-button, .flickity-prev-next-button:hover {
   background: none;
