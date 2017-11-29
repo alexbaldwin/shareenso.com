@@ -29,25 +29,9 @@ url:
 twitter_username: jekyllrb
 github_username: jekyll
 markdown: kramdown
-plugins:
-- jekyll/imgix
-- jekyll-feed
-- jekyll-assets
-- jekyll-seo-tag
-- octopress-minify-html
-assets:
-  assets:
-  - application.css
-  autoprefixer:
-    browsers:
-    - last 2 versions
-    - IE > 9
-  autowrite: true
-  prefix: "/assets"
-  digest: true
-  sources:
-  - _assets/css
-  - _assets/js
+sass:
+  sass_dir: css
+  style: compressed
 exclude:
 - Gemfile
 - Gemfile.lock
