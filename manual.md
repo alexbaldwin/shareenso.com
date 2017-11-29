@@ -16,5 +16,5 @@ steps:
 ---
 
 {% for step in page.steps %}
-  {{ step }}
+  {{ step | markdownify }}
 {% endfor %}
