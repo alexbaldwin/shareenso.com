@@ -1,7 +1,6 @@
 ---
 title: FAQ
 date: 2017-11-29 01:31:00 Z
-layout: post
 questions:
 - question: Is there an online version of the user manual?
   answer: "[Here it is!](/manual/)"
@@ -16,10 +15,9 @@ questions:
 - question: What do I need in order to share my heartbeat?
   answer: Heartbeats are shared from one Enso to another via the mobile app. You will
     each need an Enso and the app.
-- question: Why isn't Enso matching my heartbeat?
-  answer: As your heartrate changes, Enso needs time to “think” and read your pulse
-    to catch up to the new pace. That is why you’ll feel Enso beat in sync and then
-    temporarily out of sync with your heartbeat.
+- question: Why is Enso pulsing when it's on the table?
+  answer: 'We recommend that you double tap Enso twice to turn it off when you set
+    it down. Otherwise, Enso gets confused. '
 - question: How heavy is Enso?
   answer: Your Enso weighs about as much as a small stone. Heavy enough to feel grounding,
     light enough to easily carry with you.
@@ -35,6 +33,7 @@ questions:
   answer: Our office is located in the Mission District of San Francisco, CA.
 - question: When will my Enso ship?
   answer: We are currently shipping! It generally takes 1-2 weeks from the order date.
+layout: post
 ---
 
 <h1 class="h1 mb2">Frequently asked questions</h1>
