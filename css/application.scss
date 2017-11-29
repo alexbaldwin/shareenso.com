@@ -131,7 +131,7 @@ body {
  pointer-events: none;
 }
 .hand-holding {
- background-image: url('/hand-holding.jpg');
+ background-image: url('/img/hand-holding.jpg');
  background-size: 100%;
  background-repeat: no-repeat;
 }
@@ -144,8 +144,8 @@ body {
     80% { opacity: .2; }
     100% { opacity: 0; }
 }
-/* Flickity Carousel styling */
 
+/* Flickity Carousel styling */
 .flickity-prev-next-button, .flickity-prev-next-button:hover {
   background: none;
   opacity: .9;
