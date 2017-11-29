@@ -1,8 +1,8 @@
 ---
 title: About
-layout: post
-permalink: /about/
 date: 2017-11-29 01:31:00 Z
+permalink: "/about/"
+layout: post
 ---
 
 # Letter from Enso's founder

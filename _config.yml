@@ -30,18 +30,18 @@ twitter_username: jekyllrb
 github_username: jekyll
 markdown: kramdown
 relative_links:
-  enabled:     true
+  enabled: true
   collections: false
 sass:
   sass_dir: css
   style: compressed
 gems:
-  - jekyll-relative-links
+- jekyll-relative-links
 exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
+- Gemfile
+- Gemfile.lock
+- node_modules
+- vendor/bundle/
+- vendor/cache/
+- vendor/gems/
+- vendor/ruby/

@@ -1,8 +1,8 @@
 ---
 title: Privacy policy
-layout: post
-permalink: /privacy/
 date: 2017-11-29 01:31:00 Z
+permalink: "/privacy/"
+layout: post
 ---
 
 # Privacy policy

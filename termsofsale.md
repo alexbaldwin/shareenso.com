@@ -1,8 +1,8 @@
 ---
 title: Terms of sale
-layout: post
-permalink: /termsofsale/
 date: 2017-11-29 01:31:00 Z
+permalink: "/termsofsale/"
+layout: post
 ---
 
 # Terms of sale

@@ -1,8 +1,8 @@
 ---
 title: Terms of service
-layout: post
-permalink: /termsofservice/
 date: 2017-11-29 01:31:00 Z
+permalink: "/termsofservice/"
+layout: post
 ---
 
 # Terms of service
