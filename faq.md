@@ -1,7 +1,7 @@
 ---
 title: FAQ
-layout: post
 date: 2017-11-29 01:31:00 Z
+layout: post
 questions:
 - question: Is there an online version of the user manual?
   answer: "[Here it is!](/manual/)"
