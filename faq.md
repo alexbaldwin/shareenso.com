@@ -1,7 +1,8 @@
 ---
 title: FAQ
+layout: post
 date: 2017-11-29 01:31:00 Z
-Field name:
+questions:
 - question: Is there an online version of the user manual?
   answer: "[Here it is!](/manual/)"
 - question: How does it work exactly?
@@ -36,3 +37,12 @@ Field name:
   answer: We are currently shipping! It generally takes 1-2 weeks from the order date.
 ---
 
+<h1 class="h1 mb2">Frequently asked questions</h1>
+<section class="">
+{% for q in page.questions %}
+<div class="mb4 clearfix">
+<h3 class="h3 medium mb0">{{ q.question }}</h3>
+<p class="">{{ q.answer | markdownify }}</p>
+</div>
+{% endfor %}
+</section>
