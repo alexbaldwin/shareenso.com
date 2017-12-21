@@ -14,25 +14,24 @@
     <link href="/css/application.css" rel="stylesheet">
     <script src="https://use.typekit.net/vkx0hel.js"></script>
     <script>try{Typekit.load({ async: true });}catch(e){}</script>
-<script>
-  !function(f,b,e,v,n,t,s)
-  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-  n.queue=[];t=b.createElement(e);t.async=!0;
-  t.src=v;s=b.getElementsByTagName(e)[0];
-  s.parentNode.insertBefore(t,s)}(window, document,'script',
-  'https://connect.facebook.net/en_US/fbevents.js');
-  fbq('init', '360081807786721');
-  fbq('track', 'PageView');
-</script>
-<noscript><img height="1" width="1" style="display:none"
-  src="https://www.facebook.com/tr?id=360081807786721&ev=PageView&noscript=1"
-/></noscript>
-<!-- End Facebook Pixel Code -->
 
+    <!-- Facebook Pixel Code -->
+    <script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+    n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+    document,'script','https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '948354278615498'); // Insert your pixel ID here.
+    fbq('track', 'PageView');
+    </script>
+    <noscript>&lt;img height="1" width="1" style="display:none"
+    src="https://www.facebook.com/tr?id=948354278615498&amp;ev=PageView&amp;noscript=1"
+    /&gt;</noscript>
+    <!-- DO NOT MODIFY -->
+    <!-- End Facebook Pixel Code -->
   </head>
-  <body class="{% if page.bg_white == true %}bg-white {% else %}bg-curtain{% endif %}">
+  <body class="{% if page.curtain == true %}bg-curtain {% else %}bg-white{% endif %}">
     {% unless page.permalink == "/" %}
 <div class="col-12">
   <div class="container mx-auto bg-white z4">
