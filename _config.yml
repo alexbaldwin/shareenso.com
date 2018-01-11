@@ -35,7 +35,7 @@ relative_links:
 sass:
   sass_dir: css
   style: compressed
-gems:
+plugins:
 - jekyll-relative-links
 exclude:
 - Gemfile
