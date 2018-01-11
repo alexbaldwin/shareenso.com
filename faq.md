@@ -36,12 +36,12 @@ questions:
 layout: post
 ---
 
-<h1 class="h1 mb2">Frequently asked questions</h1>
+<h1 class="h1 serif mb2">Frequently asked questions</h1>
 <section class="">
 {% for q in page.questions %}
-<div class="mb4 clearfix">
-<h3 class="h3 medium mb0">{{ q.question }}</h3>
-<p class="">{{ q.answer | markdownify }}</p>
+<div class="mb2 clearfix">
+<h3 class="h2 sans medium mb0">{{ q.question }}</h3>
+<p class="sans p">{{ q.answer | markdownify }}</p>
 </div>
 {% endfor %}
 </section>

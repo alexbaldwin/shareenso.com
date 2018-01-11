@@ -65,15 +65,16 @@
     </footer>
     <script src="https://www.trycelery.com/js/celery.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/flickity/2.0.9/flickity.pkgd.min.js"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/smooth-scroll/12.1.0/js/smooth-scroll.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/smooth-scroll/12.1.5/js/smooth-scroll.min.js"></script>
         <script src="/js/sticky.min.js"></script>
         <script>
+          // https://github.com/cferdinandi/smooth-scroll
+          var scroll = new SmoothScroll('a[href*="#"]');
+
           new Sticky({
             target: '.js-sticky',
             offset: 200
           });
-          // https://github.com/cferdinandi/smooth-scroll
-          var scroll = new SmoothScroll('a[href*="#"]');
         </script>
         <script>
           window.ga=function(){ga.q.push(arguments)};ga.q=[];ga.l=+new Date;
