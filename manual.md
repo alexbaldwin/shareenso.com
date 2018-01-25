@@ -35,7 +35,7 @@ steps:
 
   Join our community on [Instagram](https://www.instagram.com/sharelove.enso/) and [Facebook](https://www.facebook.com/sharelove.enso/).
 
-  If you have questions or feedback, please go to [our FAQ](/faq.md) or contact us at [support@shareenso.com](mailto:support@shareenso.com).
+  If you have questions or feedback, please go to [our FAQ](/faq/) or contact us at [support@shareenso.com](mailto:support@shareenso.com).
 - |-
   This device complies with part 15 of the FCC Rules. Operation is subject to the following two conditions: (1) This device may not cause harmful interference, and (2) this device must accept any interference received, including interference that may cause undesired operation.”
   {:.small}
