@@ -28,7 +28,7 @@ questions:
     Enso takes 1.5 hours to fully recharge. The battery lasts for about five hours
     of continuous use.
 - question: Why won't Enso turn on?
-  answer: The Micro USB cord you used to charge Enso may be defective; try using a
+  answer: The Micro-USB cord you used to charge Enso may be defective; try using a
     different cord. If the cord is fine, try resetting Enso by inserting a pin into
     the small hole on the bottom of Enso.
 - question: Will I feel a heart arrhythmia?
