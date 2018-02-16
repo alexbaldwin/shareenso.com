@@ -19,10 +19,6 @@ questions:
 - question: Why is Enso pulsing when it's on the table?
   answer: 'We recommend that you double tap Enso twice to turn it off when you set
     it down. Otherwise, Enso gets confused. '
-- question: Why won't Enso turn on?
-  answer: The Micro USB cord you used to charge Enso may be defective. Try using a
-    different cord. If the cord is fine, try resetting Enso by inserting a pin into
-    the small hole on the bottom of Enso.
 - question: How heavy is Enso?
   answer: Your Enso weighs about as much as a small stone. Heavy enough to feel grounding,
     light enough to easily carry with you.
@@ -31,6 +27,10 @@ questions:
     including a Micro-USB charging cord. Plug the cord into the USB port on Enso.
     Enso takes 1.5 hours to fully recharge. The battery lasts for about five hours
     of continuous use.
+- question: Why won't Enso turn on?
+  answer: The Micro USB cord you used to charge Enso may be defective; try using a
+    different cord. If the cord is fine, try resetting Enso by inserting a pin into
+    the small hole on the bottom of Enso.
 - question: Will I feel a heart arrhythmia?
   answer: No, Enso correlates with your heartrate and will not reflect irregular heartbeats.
     Enso is not a medical device.
