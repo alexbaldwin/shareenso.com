@@ -19,6 +19,10 @@ questions:
 - question: Why is Enso pulsing when it's on the table?
   answer: 'We recommend that you double tap Enso twice to turn it off when you set
     it down. Otherwise, Enso gets confused. '
+- question: Why won't Enso turn on?
+  answer: The Micro USB cord you used to charge Enso may be defective. Try using a
+    different cord. If the cord is fine, try resetting Enso by inserting a pin into
+    the small hole on the bottom of Enso.
 - question: How heavy is Enso?
   answer: Your Enso weighs about as much as a small stone. Heavy enough to feel grounding,
     light enough to easily carry with you.
@@ -34,6 +38,7 @@ questions:
   answer: Our office is located in the Mission District of San Francisco, CA.
 - question: When will my Enso ship?
   answer: We are currently shipping! It generally takes 1-2 weeks from the order date.
+Field name: 
 layout: post
 ---
 
