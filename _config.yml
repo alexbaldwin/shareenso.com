@@ -21,7 +21,7 @@ defaults:
   values:
     layout: page
     image:
-      path: /img/opengraph.jpg
+      path: "/img/opengraph.jpg"
       width: 600
       height: 415
 permalink: pretty
