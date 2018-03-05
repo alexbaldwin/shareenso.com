@@ -37,7 +37,7 @@ questions:
 - question: Where is the Enso office?
   answer: Our office is located in the Mission District of San Francisco, CA.
 - question: When will my Enso ship?
-  answer: We are currently shipping! It generally takes 1-2 weeks from the order date.
+  answer: We are currently shipping! It generally takes 2-3 weeks from the order date.
 Field name: 
 layout: post
 ---
