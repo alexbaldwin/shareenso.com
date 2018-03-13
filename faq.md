@@ -11,11 +11,13 @@ questions:
     sense and pulse in sync with your realtime heartrate. Tap Enso twice more to turn
     it off.
 - question: How do I save someone's heartbeat?
-  answer: Give them an Enso to hold. Open the mobile app and tap the "save a heartbeat"
-    button. You can save as many heartbeats as you want.
+  answer: 'Give them an Enso to hold. Open the mobile app and tap the "save a heartbeat"
+    button. '
 - question: What do I need in order to share my heartbeat?
   answer: Heartbeats are shared from one Enso to another via the mobile app. You will
     each need an Enso and the app.
+- question: How many heartbeats can I save?
+  answer: You can save as many heartbeats as you want.
 - question: Why is Enso pulsing when it's on the table?
   answer: 'We recommend that you double tap Enso twice to turn it off when you set
     it down. Otherwise, Enso gets confused. '
@@ -27,10 +29,13 @@ questions:
     including a Micro-USB charging cord. Plug the cord into the USB port on Enso.
     Enso takes 1.5 hours to fully recharge. The battery lasts for about five hours
     of continuous use.
-- question: Why won't Enso turn on?
-  answer: The Micro-USB cord you used to charge Enso may be defective; try using a
-    different cord. If the cord is fine, try resetting Enso by inserting a pin into
-    the small hole on the bottom.
+- question: 'Why won''t my Enso turn on? '
+  answer: 'Ensure Enso is charged. If you''ve charged the Enso and it will not turn
+    on, try resetting it with the small metal reset pin included in its box. The reset
+    hole is on the bottom of Enso. If you''ve tried charging and resetting and it
+    still doesn''t work, try using a different micro USB cord to charge it. If all
+    of this fails, please contact Support@ShareEnso.com so the team can troubleshoot
+    with you. '
 - question: Will I feel a heart arrhythmia?
   answer: No, Enso correlates with your heartrate and will not reflect irregular heartbeats.
     Enso is not a medical device.
