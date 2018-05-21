@@ -3,4 +3,10 @@ title: Parents
 date: 2018-05-21 17:41:00 Z
 ---
 
-This is page for parents who visit Enso.
+
+
+# Carry your child's heartbeat with you. 
+
+New moms can carry their baby's heartbeat to work after maternity leave.
+
+Fathers can keep their baby's heartbeat while they travel for work. 
