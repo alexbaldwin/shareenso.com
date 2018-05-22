@@ -17,11 +17,11 @@ Enso also enables us to share our heartbeat with loved ones near or far, live, i
 
 Enso is an amazing tool to improve personal wellbeing. It helps us give ourselves love. 
 
-Enso helps us tune into our own heartbeat and body.
+Enso helps us tune into our own heartbeat and breath.
 
-Enso guides us to breathe deeply.
+Enso guides us to breathe deeply and relax.
 
-Enso helps us relax and makes mindfulness feel effortless.
+Enso makes mindfulness feel effortless.
 
 # Partnership program
 
