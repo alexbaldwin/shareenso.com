@@ -12,7 +12,7 @@ The gentle pulse of our heartbeat connects us. We feel closer. We feel like we b
 
 We share love by sharing our heartbeat. 
 
-Say "I love you" by giving your partner your heartbeat. 
+Say "I love you" by giving your heartbeat to your partner.
 
 # Long distance relationships  
 
