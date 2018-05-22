@@ -29,7 +29,7 @@ Our referral partnership program is open to top wellness professionals: executiv
 
 We offer our partners a sliding percentage of the $99 unit price. The percentage and payout is calculated based on the number of units sold in a quarter.
 
-Our partners can make between $500-$25,000 per quarter depending on volume of referrals. 
+Our partners can make between $500 - $25,000 per quarter depending on volume of referrals. 
 
 # Payouts
 
