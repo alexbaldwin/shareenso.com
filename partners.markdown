@@ -31,6 +31,6 @@ Each referral partner gets a personal promotional code so we can track referrals
 
 # Apply
 
-Email us for more information at [rebecca@shareenso.com](mailto:rebecca@shareenso.com).
+Email us to get started at [rebecca@shareenso.com](mailto:rebecca@shareenso.com).
 
 
