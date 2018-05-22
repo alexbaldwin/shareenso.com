@@ -29,7 +29,7 @@ Our referral partnership program is designed for wellness professionals: executi
 
 We offer our partners a sliding percentage of the $99 unit price. The percentage and payout is calculated based on the number of units sold in a quarter.
 
-Partners can make more than $10,000 per quarter depending on their volume of referrals.
+Our partners can make between $500-$25,000 per quarter depending on volume of referrals. 
 
 # Payouts
 
@@ -39,4 +39,4 @@ Each referral partner gets a personal promotional code so we can track referrals
 
 # Apply
 
-To apply to join our partnership program, email us at [support@shareenso.com](mailto:support@shareenso.com)
+To apply to join our partnership program, email the Enso CEO at [rebecca@shareenso.com](mailto:rebecca@shareenso.com).
