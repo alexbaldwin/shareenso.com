@@ -20,27 +20,27 @@ Enso is a magical way for long-distance couples to share love.
 
 Enso lets us feel the energy and presence of our partner across space and time. 
 
-Capture the heartbeat of your beloved and carry it with you throughout your day.
+Capture the heartbeat of your beloved. Carry it throughout your day.
 
-Hold their gentle heartbeat when you miss them. 
+Feel the gentle pulse of their heartbeat when you miss them. 
 
-Share your heartbeat with each other, live, in the moment, when you're on your nightly check-in call. 
+Share your heartbeat with each other, live, in the moment, during your nightly check-in call. 
 
-Feel each other's heartbeat shift and change with your mood.
+Feel their heartbeat shift and change with their mood.
 
-Fall asleep at night holding the heartbeat of your partner.
+Fall asleep at night holding your love's heartbeat.
 
 # Difficult conversations in relationships
 
-Every relationship encounters rocky times. Times when we have trouble talking with each other. 
+Every relationship encounters rocky times. 
 
-Share your heartbeat with Enso to connect when words aren't working.
+Connect hearts when words stop working.
 
 Use Enso to get on the same page. 
 
 Engage when both of you have slow, steady heartbeats. 
 
-Take time to breathe and relax when your heartbeat spikes. 
+Take time to relax when your heart rate spikes. 
 
 Listen to your bodies. 
 
@@ -48,7 +48,7 @@ Proceed with care for each other's hearts.
 
 # Mindful relationships 
 
-Our presence and attention is one of the most valuable gifts we can offer to our partner.
+Our presence and attention is one of the most valuable gifts we can offer.
 
 Practice being present with Enso.
 
@@ -62,7 +62,7 @@ Notice without judgment.
 
 Grow your awareness of how you're feeling in the present moment.
 
-Take a few deep breaths, expanding your belly with each inhale.
+Take a few deep breaths, expanding your belly with each inhalation.
 
 Bring your focus back to your heartbeat and breath whenever it wanders. 
 
@@ -72,4 +72,4 @@ Carry this mindfulness with you throughout your day.
 
 Bring this awareness to every interaction.  
 
-Share love from a place of attentiveness and presence. 
+Share love from this attentive and present place. 
