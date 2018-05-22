@@ -31,4 +31,6 @@ Each referral partner gets a personal promotional code so we can track referrals
 
 # Apply
 
-To apply to join our partnership program, email the Enso CEO at [rebecca@shareenso.com](mailto:rebecca@shareenso.com).
+Email us for more information at [rebecca@shareenso.com](mailto:rebecca@shareenso.com).
+
+
