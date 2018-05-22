@@ -18,4 +18,4 @@ Your child is starting to stress about school, work and relationships. You teach
 
 You share heartbeats with your child as they go off to college. You know it will help with homesickness. 
 
-You gift your heartbeats to your child as they start their own family and the circle begins again. 
+You gift your heartbeat to your child as they start their own family, and the cycle begins again. 
