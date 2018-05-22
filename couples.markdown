@@ -12,7 +12,7 @@ Long after we're born, many of us find deep comfort in feeling someone's heartbe
 
 We relax when we feel the heartbeat of someone we love. Especially our significant other. That gentle pulse connects us to each other. We feel what they're feeling. We feel closer. We feel like we belong.
 
-We share love by sharing our heartbeat. Give someone your heartbeat to say "I love you". 
+We share love by sharing our heartbeat. Say "I love you" by giving your partner your heartbeat. 
 
 # Long distance relationships  
 
