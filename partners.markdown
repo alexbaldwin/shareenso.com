@@ -17,10 +17,14 @@ Our referral partnership program is designed for wellness professionals: executi
 
 We offer our partners a sliding percentage of the unit price. The percentage and payout is calculated based on the number of units sold in a quarter.
 
-Partners can make up to 
+Partners can make more than $25,000 per quarter depending on their volume of referrals.
 
-#Payouts 
+# Payouts
 
 We offer quarterly payouts - on March 31, June 30, Sept 30, and Dec 31.
 
 Each referral partner gets a personal promotional code that gives people $5 off their order to incentivize them using it.
+
+# Apply
+
+To apply to join our partnership program, email us!
