@@ -15,7 +15,7 @@ Enso also allows us to share our heartbeat with loved ones near or far, live, in
 
 # Wellness
 
-People also use Enso to improve their own wellbeing and give themselves love. 
+People also use Enso to improve their own wellbeing. It's a tool that helps us give ourselves some love. 
 
 Enso helps us tune into our own heartbeat and body.
 
@@ -25,7 +25,7 @@ Enso helps us relax and makes mindfulness feel effortless.
 
 # Partnership program
 
-Our referral partnership program is designed for wellness professionals: executive coaches, meditation teachers, nutritionists.
+Our referral partnership program is open to top wellness professionals: executive coaches, meditation teachers, fitness trainers and nutritionists.
 
 We offer our partners a sliding percentage of the $99 unit price. The percentage and payout is calculated based on the number of units sold in a quarter.
 
