@@ -52,6 +52,6 @@ To comfort. To soothe. To help us.
 
 Enso is working for us. 
 
-Effortlessly. Beautifully. 
+Effortlessly. Beautifully. Like magic. 
 
-Just like our hearts.
+Just like our heart.
