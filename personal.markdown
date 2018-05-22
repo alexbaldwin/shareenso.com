@@ -26,23 +26,23 @@ We hold Enso.
 
 We feel the gentle pulse of our heartbeat in our palm.
 
-We feel as our heartbeat shifts with our thoughts and moods.
+We feel our heartbeat shift with our thoughts and moods.
 
-It's like holding our consciousness in our palm.
+Holding Enso is like holding our consciousness.
 
 We become aware of our bodies. 
 
 We feel present. Grounded. Focused. 
 
-We give ourselves attention and love. 
-
 Simply by holding Enso. 
 
 Taking a few deep breaths. 
 
-Breathing with Enso's guiding lights.
+Inhaling and exhaling with Enso's guiding lights.
 
-Allowing ourselves a moment to pause and relax. 
+Allowing ourselves a moment to relax. 
+
+Giving ourselves attention and love. 
 
 Anytime, anywhere.
 
@@ -52,6 +52,6 @@ To comfort. To soothe. To help us.
 
 Enso is working for us. 
 
-Quietly. Effortlessly. Beautifully. 
+Effortlessly. Beautifully. 
 
 Just like our hearts.
