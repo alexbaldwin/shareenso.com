@@ -58,6 +58,8 @@ Notice your heartbeat. Is it fast, or slow?
 
 Tune into your breathing. Shallow, or deep?
 
+Notice without judgment. 
+
 Grow your awareness of how you're feeling in the present moment.
 
 Take a few deep breaths, expanding your belly with each inhale.
