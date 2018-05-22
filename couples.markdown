@@ -8,7 +8,7 @@ layout: post
 
 Our heart is the first thing that develops in the womb. Our mother's heartbeat is among the first sounds we hear, the first vibrations we feel. 
 
-Long after we're born, many of us find deep comfort in feeling to someone's heartbeat. 
+Long after we're born, many of us find deep comfort in feeling someone's heartbeat. 
 
 We relax when we feel the heartbeat of someone we love. Especially our significant other. That gentle pulse connects us to each other. We feel what they're feeling. We feel closer. We feel like we belong.
 
