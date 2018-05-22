@@ -68,4 +68,8 @@ Bring your focus back to your heartbeat and breath whenever it wanders.
 
 After a few minutes, return to whatever you were doing. 
 
-Carry this mindfulness with you throughout your day. Bring awareness and attentiveness to every interaction.  
+Carry this mindfulness with you throughout your day. 
+
+Bring this awareness to every interaction.  
+
+Grow love from a place of attentiveness and presence. 
