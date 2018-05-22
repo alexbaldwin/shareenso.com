@@ -14,6 +14,8 @@ Your wife is returning to work after maternity leave. You save your baby's heart
 
 You give your heartbeat to your child on their first day of school to comfort them. 
 
+You teach your child about their heartbeat and how to breathe slowly. They relax with Enso. 
+
 You share heartbeats with your child who's going off to college. You know it will help with homesickness. 
 
 You gift your heartbeats to your child as they start their own family, so that your grandkids can have them someday. 
