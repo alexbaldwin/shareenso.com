@@ -19,15 +19,16 @@ Give yourself love. Tune into the gentle pulse of your own heartbeat, breathe, a
 
 Our referral partnership program is open to top wellness professionals: executive coaches, meditation teachers, fitness trainers and nutritionists.
 
-We offer our partners a sliding percentage of the $99 unit price. The percentage and payout is calculated based on the number of units sold in a quarter through referrals. 
+We offer our partners a sliding percentage of the $99 unit price. The percentage is based on the number of units sold in a quarter through referrals. 
 
 Our partners can make between $500 - $25,000 per quarter depending on volume of referral sales. 
 
-# Payouts
+# Structure
+
+Each partner gets a personal promotional code so we can track their referrals. 
 
 We offer quarterly payouts - on March 31, June 30, Sept 30, and Dec 31.
 
-Each partner gets a personal promotional code so we can track referrals.
 
 # Apply
 
