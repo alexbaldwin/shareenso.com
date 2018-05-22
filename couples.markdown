@@ -4,7 +4,7 @@ date: 2018-05-22 01:54:00 Z
 layout: post
 ---
 
-# A new way to say "I love you" 
+# Enso strengthens relationships 
 
 We relax when we feel the heartbeat of someone we love. Especially our significant other. 
 
@@ -46,3 +46,26 @@ Listen to your bodies.
 
 Proceed with care for each other's hearts.
 
+# Mindful relationships 
+
+Our presence and attention is one of the most valuable gifts we can offer to our partner.
+
+Practice being present with Enso.
+
+Hold Enso once or twice a day for a few minutes. 
+
+Notice your heartbeat. Is it fast, or slow?
+
+Tune into your breathing. Shallow, or deep?
+
+Notice without judgment. 
+
+Grow your awareness of how you're feeling in the present moment.
+
+Take a few deep breaths, expanding your belly with each inhale.
+
+Bring your focus back to your heartbeat and breath whenever it wanders. 
+
+After a few minutes, return to whatever you were doing. 
+
+Carry this mindfulness with you throughout your day. Bring awareness and attentiveness to every interaction.  
