@@ -37,4 +37,4 @@ Each referral partner gets a personal promotional code so we can track referrals
 
 # Apply
 
-To apply to join our partnership program, email us!
+To apply to join our partnership program, email us at [support@shareenso.com](mailto:support@shareenso.com)
