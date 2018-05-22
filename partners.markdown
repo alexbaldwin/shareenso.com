@@ -11,7 +11,7 @@ layout: post
 
 Enso allows us to capture and keep the heartbeat of someone we love, like our child, partner or aging grandparent.
 
-Enso also allows us to share our heartbeat with loved ones near or far, live, in the moment. With Enso, we can be present in a visceral, tangible way when we're on a call with a loved one who lives thousands of miles away. 
+Enso also allows us to share our heartbeat with loved ones near or far, live, in the moment. It's magical to feel the changing heartbeat of a long-distance partner or child as you speak to them on the phone.  
 
 # Wellness
 
