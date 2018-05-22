@@ -11,7 +11,7 @@ Enso allows us to capture and keep the heartbeat of someone we love, like our ch
 
 Enso also allows us to share our heartbeat with loved ones near or far, live, in the moment. 
 
-# Wellness tool 
+# Wellness 
 
 People use Enso to improve their own wellbeing. Fundamentally, Enso is a tool for self-love. It helps us tune into our own heartbeat and body. It guides us to breathe deeply. It helps us relax and makes mindfulness effortless. 
 
