@@ -6,9 +6,13 @@ layout: post
 
 # A new way to say "I love you" 
 
-Our heart is the first thing that develops in the womb. Our mother's heartbeat is among the first sounds we hear. Long after we're born, many of us find deep comfort in listening to someone's heartbeat. 
+Our heart is the first thing that develops in the womb. Heartbeats are the first vibrations we feel. Our mother's heartbeat is among the first sounds we hear. 
 
-We relax in a profound way when we feel the heartbeat of someone we love. Especially our significant other. That gentle pulse connects us to each other. We feel what they're feeling. We feel closer. We feel like we belong.
+Long after we're born, many of us find deep comfort in feeling someone's heartbeat. 
+
+We relax when we feel the heartbeat of someone we love. Especially our significant other. That gentle pulse connects us to each other. We feel what they're feeling. We feel closer. We feel like we belong.
+
+We share love by sharing our heartbeat. Give someone your heartbeat to say "I love you". 
 
 # Long distance relationships  
 
@@ -16,22 +20,14 @@ We may be apart from our significant other for a few days, for months, or perhap
 
 Enso brings us together, no matter how many miles separate us.
 
-We can give our heartbeat to our partner to say "I love you". 
-
 We can capture the heartbeat of our beloved and carry it with us throughout our day.
 
 We can hold their gentle heartbeat when we miss them. 
 
-We can share our live heartbeat on calls. 
+We can share our heartbeat live, in the moment, on calls. 
 
 We feel as their heartbeat shifts and changes with their mood.
 
 We fall asleep at night holding the heartbeat of our partner.
 
-Enso is a magical way for long-distance couples to connect. To feel the energy and love of our partner. To feel physically close no matter the thousands of miles separating us.   
-
-# Difficult conversations
-
-# Love languages 
-
-# 
+Enso is a magical way for long-distance couples to share love. To feel the energy and presence of our partner, no matter how many miles separate us. 
