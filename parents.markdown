@@ -1,6 +1,7 @@
 ---
-title: Parents
+title: parents
 date: 2018-05-21 17:41:00 Z
+layout: post
 ---
 
 
