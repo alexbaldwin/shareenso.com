@@ -30,10 +30,4 @@ We feel as their heartbeat shifts and changes with their mood.
 
 We fall asleep at night holding the heartbeat of our partner.
 
-Enso is a magical way for long-distance couples to connect. To feel the energy and love of our partner. To feel physically close no matter the thousands of miles separating us.   
-
-# Difficult conversations
-
-# Love languages 
-
-# 
+Enso is a magical way for long-distance couples to connect. To feel the energy and love of our partner. To feel physically close no matter how many miles separate us.   
