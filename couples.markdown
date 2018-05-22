@@ -8,13 +8,13 @@ layout: post
 
 Our heart is the first thing that develops in the womb. Heartbeats are the first vibrations we feel. Our mother's heartbeat is among the first sounds we hear. 
 
-Long after we're born, many of us find deep comfort in feeling someone's heartbeat. 
-
 We relax when we feel the heartbeat of someone we love. Especially our significant other. That gentle pulse connects us to each other. We feel what they're feeling. We feel closer. We feel like we belong.
 
 We share love by sharing our heartbeat. Say "I love you" by giving your partner your heartbeat. 
 
 # Long distance relationships  
+
+Enso is a magical way for long-distance couples to share love. To feel the energy and presence of our partner across space and time. 
 
 We may be apart from our significant other for a few days, for months, or perhaps for years. We may be on a work trip, or study abroad, or have fallen in love across continents.
 
@@ -29,5 +29,3 @@ We can share our heartbeat live, in the moment, on calls.
 We feel as their heartbeat shifts and changes with their mood.
 
 We fall asleep at night holding the heartbeat of our partner.
-
-Enso is a magical way for long-distance couples to share love. To feel the energy and presence of our partner across space and time. 
