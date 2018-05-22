@@ -11,7 +11,7 @@ layout: post
 
 With Enso, capture and keep the heartbeat of someone you love, like your child, partner or aging grandparent.
 
-Share your live heartbeat with loved ones near or far. Tangibly connect in the moment. 
+Share your live heartbeat with loved ones near or far to connect in the moment. 
 
 Give yourself love. Tune into the gentle pulse of your own heartbeat, breathe, and relax. 
 
