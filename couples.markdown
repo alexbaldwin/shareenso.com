@@ -29,3 +29,20 @@ Share your heartbeat with each other, live, in the moment, when you're on your n
 Feel each other's heartbeat shift and change with your mood.
 
 Fall asleep at night holding the heartbeat of your partner.
+
+# Difficult conversations in relationships
+
+Every relationship encounters rocky times. Times when we have trouble talking with each other. 
+
+Share your heartbeat with Enso to connect when words aren't working.
+
+Use Enso to get on the same page. 
+
+Engage when both of you have slow, steady heartbeats. 
+
+Take time to breathe and relax when your heartbeat spikes. 
+
+Listen to your bodies. 
+
+Proceed with care for each other's hearts.
+
