@@ -24,7 +24,7 @@ We can capture the heartbeat of our beloved and carry it with us throughout our 
 
 We can hold their gentle heartbeat when we miss them. 
 
-We can share our live heartbeat on calls. 
+We can share our heartbeat live, in the moment, on calls. 
 
 We feel as their heartbeat shifts and changes with their mood.
 
