@@ -8,15 +8,17 @@ layout: post
 
 We relax when we feel the heartbeat of someone we love. Especially our significant other. 
 
-The gentle pulse of our heartbeat connects us. We feel closer. We feel like we belong.
+The gentle pulse of our heartbeat connects us. It soothes us. We feel closer. We feel like we belong.
 
 We share love by sharing our heartbeat. 
 
-Say "I love you" by giving your partner your heartbeat. 
+Say "I love you" by giving your heartbeat to your partner.
 
 # Long distance relationships  
 
-Enso is a magical way for long-distance couples to share love. To feel the energy and presence of your partner across space and time. 
+Enso is a magical way for long-distance couples to share love. 
+
+Enso lets us feel the energy and presence of our partner across space and time. 
 
 Capture the heartbeat of your beloved and carry it with you throughout your day.
 
