@@ -6,11 +6,11 @@ layout: post
 
 # Imagine 
 
-You save your baby's heartbeat in his or her first days of life. 
+You capture your baby's heartbeat in their first days. 
 
-You know how much it will mean for your husband to keep your newborn's precious heartbeat with him when he travels.
+You know how much it will mean for your husband to feel your newborn's precious heartbeat as he travels.
 
-Your wife is returning to work after maternity leave. You capture your baby's heartbeat and give it to her, so she can carry her baby with her each day. 
+Your wife is returning to work after maternity leave. You save your baby's heartbeat so she can carry them to work each day. 
 
 You give your heartbeat to your child on their first day of school to comfort them. 
 
