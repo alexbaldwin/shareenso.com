@@ -14,7 +14,7 @@ Our heart, beating steadily, keeping us alive.
 
 Our heart, guiding us, giving us information.
 
-Our heart, reminding us that we exist. 
+Our heart, reminding us that we exist, that we matter.
 
 We forget to listen.
 
