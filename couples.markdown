@@ -8,7 +8,7 @@ layout: post
 
 We relax when we feel the heartbeat of someone we love. Especially our significant other. 
 
-The gentle pulse of our heartbeat connects us. We feel closer. We feel like we belong.
+The gentle pulse of our heartbeat connects us. It soothes us. We feel closer. We feel like we belong.
 
 We share love by sharing our heartbeat. 
 
