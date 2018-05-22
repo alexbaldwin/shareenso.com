@@ -27,7 +27,7 @@ Our partners can make between $500 - $25,000 per quarter depending on volume of 
 
 We offer quarterly payouts - on March 31, June 30, Sept 30, and Dec 31.
 
-Each referral partner gets a personal promotional code so we can track referrals.
+Each partner gets a personal promotional code so we can track referrals.
 
 # Apply
 
