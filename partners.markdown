@@ -13,7 +13,7 @@ Enso allows us to capture and keep the heartbeat of someone we love, like our ch
 
 Enso also enables us to share our heartbeat with loved ones near or far, live, in the moment. 
 
-Enso even helps us give ourselves love. With Enso, we can tune into our own heartbeat and breath. Enso guides us to breathe deeply and relax. 
+Enso even helps us give ourselves love. With Enso, we can tune into our own heartbeat, breathe, and relax. 
 
 # Partnership program
 
