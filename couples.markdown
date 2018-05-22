@@ -4,7 +4,7 @@ date: 2018-05-22 01:54:00 Z
 layout: post
 ---
 
-# Enso strengthens relationships 
+# Share love
 
 We relax when we feel the heartbeat of someone we love. Especially our significant other. 
 
