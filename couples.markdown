@@ -72,4 +72,4 @@ Carry this mindfulness with you throughout your day.
 
 Bring this awareness to every interaction.  
 
-Grow love from a place of attentiveness and presence. 
+Share love from a place of attentiveness and presence. 
