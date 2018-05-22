@@ -6,7 +6,7 @@ layout: post
 
 # A new way to say "I love you" 
 
-Our heart is the first thing that develops in the womb. Our mother's heartbeat is among the first sounds we hear, the first vibrations we feel. 
+Our heart is the first thing that develops in the womb. Heartbeats are the first vibrations we feel. Our mother's heartbeat is among the first sounds we hear. 
 
 Long after we're born, many of us find deep comfort in feeling someone's heartbeat. 
 
