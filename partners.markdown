@@ -9,11 +9,11 @@ layout: post
 
 # Enso is a new way to share love.
 
-Enso allows us to capture and keep the heartbeat of someone we love, like our child, partner or aging grandparent.
+With Enso, capture and keep the heartbeat of someone you love, like your child, partner or aging grandparent.
 
-Enso also enables us to share our heartbeat with loved ones near or far, live, in the moment. 
+Share your heartbeat with loved ones near or far, live, in the moment. 
 
-Enso even helps us give ourselves love. With Enso, we can tune into our own heartbeat, breathe, and relax. 
+Give yourself love. Tune into the gentle pulse of your own heartbeat, breathe, and relax. 
 
 # Partnership program
 
