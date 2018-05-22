@@ -16,7 +16,9 @@ Say "I love you" by giving your heartbeat to your partner.
 
 # Long distance relationships  
 
-Enso is a magical way for long-distance couples to share love. To feel the energy and presence of your partner across space and time. 
+Enso is a magical way for long-distance couples to share love. 
+
+Enso lets us feel the energy and presence of our partner across space and time. 
 
 Capture the heartbeat of your beloved and carry it with you throughout your day.
 
