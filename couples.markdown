@@ -32,11 +32,13 @@ Feel their heartbeat shift and change with their mood.
 
 Fall asleep at night holding your love's heartbeat.
 
+![Screen Shot 2018-05-22 at 4.12.45 PM.png](/uploads/Screen%20Shot%202018-05-22%20at%204.12.45%20PM.png)
+
 # Difficult conversations in relationships
 
 Every relationship encounters rocky times. 
 
-Connect hearts when words stop working.
+Share heartbeats when words stop working.
 
 Use Enso to get on the same page. 
 
@@ -60,15 +62,7 @@ Notice your heartbeat. Is it fast, or slow?
 
 Tune into your breathing. Shallow, or deep?
 
-Notice without judgment. 
-
-Grow your awareness of how you're feeling in the present moment.
-
-Take a few deep breaths, expanding your belly with each inhalation.
-
-Bring your focus back to your heartbeat and breath whenever it wanders. 
-
-After a few minutes, return to whatever you were doing. 
+Cultivate awareness without judgment. 
 
 Carry this mindfulness with you throughout your day. 
 
