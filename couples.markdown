@@ -18,10 +18,6 @@ Say "I love you" by giving your partner your heartbeat.
 
 Enso is a magical way for long-distance couples to share love. To feel the energy and presence of your partner across space and time. 
 
-You may be apart from your significant other for a few days, for months, or perhaps for years. You may be on a work trip, or study abroad, or have fallen in love across continents.
-
-Enso brings you together.
-
 Capture the heartbeat of your beloved and carry it with you throughout our day.
 
 Hold their gentle heartbeat when you miss them. 
