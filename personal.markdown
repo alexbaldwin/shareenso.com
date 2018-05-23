@@ -8,13 +8,9 @@ layout: post
 
 Enso is designed to help you tune into your heartbeat, breathe deeply, and relax. 
 
-Wherever you are, and wherever you go.
+Pause during your day. Hold Enso. 
 
-Simply take a few minutes to hold Enso. 
-
-Focus your attention on your heartbeat. 
-
-Breathe with Enso's guiding lights. 
+Focus your attention on your heartbeat. Breathe with Enso's guiding lights. 
 
 Feel as your body relaxes. 
 
@@ -22,13 +18,13 @@ Feel as your body relaxes.
 
 Carry Enso to work with you in a pocket or purse, or leave it on your desk. 
 
-Take a moment to pause and check in throughout the day with Enso.
+Check in with your heart and breath throughout the day. 
 
 Use Enso to relax during meetings or before a big presentation. 
 
-# Get grounded 
+# Our heart matters 
 
-Our heart is the first organ that develops in the womb.
+Our heart is our first organ that develops in the womb. 
 
 Our heartbeat is the first vibration we feel.
 
@@ -52,7 +48,7 @@ We hold Enso.
 
 We feel the gentle pulse of our heartbeat in our palm.
 
-We feel our heartbeat shift with our thoughts and moods.
+Our heartbeat shifts with our thoughts and moods.
 
 Holding Enso is like holding our consciousness.
 
