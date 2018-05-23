@@ -8,7 +8,7 @@ layout: post
 
 # Share love
 
-We relax when we feel the heartbeat of someone we love. Especially our significant other. 
+We relax when we feel the heartbeat of someone we love. 
 
 The gentle pulse of their heartbeat connects us. It soothes us.
 
@@ -25,8 +25,6 @@ Capture the heartbeat of your beloved. Carry it throughout your day.
 Feel the gentle pulse of their heartbeat when you miss them. 
 
 Share your heartbeat with each other, live, in the moment, during your nightly check-in call. 
-
-Feel their heartbeat shift and change with their mood.
 
 Fall asleep at night holding your love's heartbeat.
 
