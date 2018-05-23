@@ -52,6 +52,8 @@ Hold Enso once or twice a day for a few minutes.
 
 Notice your heartbeat. Is it fast, or slow? Tune into your breathing. Shallow, or deep?
 
-Cultivate awareness without judgment. Carry this mindfulness with you throughout your day. Bring this awareness to every interaction.  
+Cultivate awareness without judgment. 
+
+Carry this mindfulness with you throughout your day. Bring this awareness to every interaction.  
 
 Share love from this attentive and present place. 
