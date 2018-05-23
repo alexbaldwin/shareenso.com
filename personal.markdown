@@ -70,7 +70,7 @@ Allowing ourselves a moment to relax.
 
 Giving ourselves attention and love. 
 
-Anytime, anywhere.
+# Use Enso anytime, anywhere.
 
 Enso is there for us. 
 
