@@ -28,7 +28,7 @@ Enso helps us notice how we feel in the present moment. Simply pause for a momen
 
 # Our heart matters 
 
-Our heart is our first organ that develops in the womb. Our heartbeat is the first vibration we feel. Yet, somewhere along the way, we forget about our heart. 
+Our heart is the first organ that develops in the womb. Our heartbeat is the first vibration we feel. Yet, somewhere along the way, we forget about our heart. 
 
 Our heart, beating steadily, keeping us alive. Our heart, guiding us, giving us information. Our heart, reminding us that we exist, that we matter.
 
