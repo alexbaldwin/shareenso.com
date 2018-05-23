@@ -6,9 +6,15 @@ layout: post
 
 # Mindfulness on-the-go 
 
-Enso is designed to help you tune into your heartbeat, breathe deeply, and relax. Wherever you are, and wherever you go.
+Enso is designed to help you tune into your heartbeat, breathe deeply, and relax. 
 
-Simply take a few minutes to hold Enso in your palm. Focus your attention on your heartbeat. Breathe with Enso's guiding lights. 
+Wherever you are, and wherever you go.
+
+Simply take a few minutes to hold Enso. 
+
+Focus your attention on your heartbeat. 
+
+Breathe with Enso's guiding lights. 
 
 Feel as your body relaxes. 
 
@@ -37,6 +43,8 @@ Our heart, reminding us that we exist, that we matter.
 We forget to listen.
 
 Enso is here to help us remember. 
+
+# How Enso improves wellbeing 
 
 Enso helps us tune into our heartbeat. 
 
