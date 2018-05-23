@@ -4,7 +4,7 @@ date: 2018-05-21 17:41:00 Z
 layout: post
 ---
 
-# Capture your baby's first heartbeats
+# Capture your baby's heartbeat
 
 You capture your baby's heartbeat in their first days. 
 
