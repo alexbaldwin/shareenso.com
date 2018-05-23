@@ -24,9 +24,7 @@ We forget to listen. Enso is here to help us remember.
 
 # How Enso improves wellbeing 
 
-Enso helps us tune into our heartbeat. 
-
-We hold Enso. We feel the gentle pulse of our heartbeat in our palm.
+Enso helps us tune into our heartbeat. We hold Enso. We feel the gentle pulse of our heartbeat in our palm.
 
 Our heartbeat shifts with our thoughts and moods. Holding Enso is like holding our consciousness.
 
