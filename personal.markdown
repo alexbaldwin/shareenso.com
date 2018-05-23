@@ -12,7 +12,7 @@ Our heartbeat shifts with our thoughts and moods. Holding Enso is like holding o
 
 We become aware of our bodies. We feel present. Grounded. Focused. Simply by holding Enso. 
 
-Taking a few deep breaths. Inhaling and exhaling with Enso's guiding lights. Allowing ourselves a moment to relax. Giving ourselves attention and love. 
+We take a few deep breaths. Inhaling and exhaling with Enso's guiding lights. Allowing ourselves a moment to relax. Giving ourselves attention and love. 
 
 # Stress relief at work 
 
