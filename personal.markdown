@@ -22,10 +22,6 @@ Enso helps us find calm and focus during the workday. Check in with your heart a
 
 ![contemplation-walk.jpg](/uploads/contemplation-walk.jpg)
 
-# Live in the moment 
-
-Enso helps us notice how we feel in the present moment. Simply pause for a moment during your day. Hold Enso. Focus your attention on your heartbeat. Breathe with Enso's guiding lights. Feel your body relax. 
-
 # Our heart matters 
 
 Our heart is the first organ that develops in the womb. Our heartbeat is the first vibration we feel. Yet, somewhere along the way, we forget about our heart. 
