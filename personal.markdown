@@ -4,7 +4,7 @@ date: 2018-05-22 01:53:00 Z
 layout: post
 ---
 
-# How Enso improves wellbeing 
+# Give yourself love
 
 Enso helps us tune into our heartbeat. We hold Enso. We feel the gentle pulse of our heartbeat in our palm.
 
@@ -18,7 +18,7 @@ We take a few deep breaths. Inhaling and exhaling with Enso's guiding lights. Al
 
 Carry Enso to work with you in a pocket or purse, or leave it on your desk. Check in with your heart and breath throughout the day. Use Enso to relax during meetings or before a big presentation. 
 
-# Relax with Enso anytime, anywhere 
+# Live in the moment 
 
 Pause during your day. Hold Enso. Focus your attention on your heartbeat. Breathe with Enso's guiding lights. Feel as your body relaxes. 
 
