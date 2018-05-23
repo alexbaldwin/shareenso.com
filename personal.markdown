@@ -4,7 +4,7 @@ date: 2018-05-22 01:53:00 Z
 layout: post
 ---
 
-# Mindfulness on-the-go 
+# Relax with Enso 
 
 Enso is designed to help you tune into your heartbeat, breathe deeply, and relax. 
 
@@ -26,7 +26,7 @@ Take a moment to pause and check in throughout the day with Enso.
 
 Use Enso to relax during meetings or before a big presentation. 
 
-# Live in the moment and relax 
+# Get grounded 
 
 Our heart is the first organ that develops in the womb.
 
