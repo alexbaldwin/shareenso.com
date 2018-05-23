@@ -14,13 +14,11 @@ Carry Enso to work with you in a pocket or purse, or leave it on your desk. Chec
 
 # Our heart matters 
 
-Our heart is our first organ that develops in the womb. Our heartbeat is the first vibration we feel.
-
-Yet, somewhere along the way, we forget about our heart. 
+Our heart is our first organ that develops in the womb. Our heartbeat is the first vibration we feel. Yet, somewhere along the way, we forget about our heart. 
 
 Our heart, beating steadily, keeping us alive. Our heart, guiding us, giving us information. Our heart, reminding us that we exist, that we matter.
 
-We forget to listen. Enso is here to help us remember. 
+We forget to listen to our heart. Enso is here to help us remember. 
 
 # How Enso improves wellbeing 
 
