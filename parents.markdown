@@ -4,9 +4,7 @@ date: 2018-05-21 17:41:00 Z
 layout: post
 ---
 
-# # Life with Enso 
-
-# Capture your baby's heartbeat
+# Capture your child's first heartbeats
 
 You capture your baby's heartbeat in their first days. 
 
