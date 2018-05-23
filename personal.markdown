@@ -4,6 +4,24 @@ date: 2018-05-22 01:53:00 Z
 layout: post
 ---
 
+# Mindfulness on-the-go 
+
+Enso is designed to help you tune into your heartbeat, breathe deeply, and relax. Wherever you are, and wherever you go.
+
+Simply take a few minutes to hold Enso in your palm. Focus your attention on your heartbeat. Breathe with Enso's guiding lights. 
+
+Feel as your body relaxes. 
+
+# Stress relief at work 
+
+Carry Enso to work with you in a pocket or purse, or leave it on your desk. 
+
+Take a moment to pause and check in throughout the day with Enso.
+
+Use Enso to relax during meetings or before a big presentation. 
+
+# Live in the moment and relax 
+
 Our heart is the first organ that develops in the womb.
 
 Our heartbeat is the first vibration we feel.
