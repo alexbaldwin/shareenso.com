@@ -11,11 +11,11 @@ Capture your baby's heartbeat in their first days.
 
 Give your newborn's precious heartbeat to your husband to carry when he travels for work.
 
-Save your baby's heartbeat for your wife, who is returning to work after maternity leave. Your wife will carry your child's heartbeat with her to work every day. 
+Gift your child's heartbeat to your wife as she returns to work after maternity leave. 
 
 # Give your heartbeat to your child  
 
-Give your heartbeat to your child on their first day of school to comfort them. 
+Offer your heartbeat to your child on their first day of school to comfort them. 
 
 # Help your child calm down
 
