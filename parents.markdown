@@ -21,6 +21,6 @@ When your child begins to stress about school, work and relationships, Enso can 
 
 Get an Enso for your child and for yourself when they go to college. With two of Enso, you'll be able to share your heartbeat with them live, in the moment, on your check-in calls. They will feel the comfort of your heartbeat when they are lonely or homesick.
 
-# ... And start their own family
+# And start their own family
 
 As your child meets the love of their life and starts dreaming of their own family, Enso will be there for the young couple to capture your grandchildren's first heartbeats. 
