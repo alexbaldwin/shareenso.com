@@ -8,18 +8,17 @@ layout: post
 
 # Give yourself love
 
-Enso helps us tune into our heartbeat. We hold Enso. We feel the gentle pulse of our heartbeat in our palm.
+Enso helps us tune into our heartbeat. We feel the gentle pulse of our heartbeat as we hold Enso. 
 
 Our heartbeat shifts with our thoughts and moods. Holding Enso is like holding our consciousness.
 
-We become aware of our bodies. We feel present. Grounded. Focused. Simply by holding Enso. 
+We become aware of our bodies. We become present. Grounded. Focused. Simply by holding Enso. 
 
 We take a few deep breaths. Inhaling and exhaling with Enso's guiding lights. Allowing ourselves a moment to relax. Giving ourselves attention and love. 
 
 # Stress relief at work 
 
-Carry Enso to work with you in a pocket or purse, or leave it on your desk. Check in with your heart and breath throughout the day. Use Enso to find calm and focus during meetings or before a big presentation. 
-
+Use Enso to find calm and focus during the workday. Check in with your heart and breath during meetings or before a big presentation. Carry Enso to work in your pocket or purse, or leave it on your desk. 
 
 ![contemplation-walk.jpg](/uploads/contemplation-walk.jpg)
 
