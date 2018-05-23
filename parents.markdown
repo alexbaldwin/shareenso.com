@@ -14,11 +14,9 @@ You give your newborn's precious heartbeat to your husband to carry when he trav
 
 Your wife is returning to work after maternity leave. You save your baby's heartbeat for her. Your wife carries your child's heartbeat with her to work every day. 
 
-# Your baby is growing up 
+# Your child is growing up 
 
 You give your heartbeat to your child on their first day of school to comfort them. 
-
-# Soothing growing pains 
 
 Your child is starting to stress about school, work and relationships. 
 
