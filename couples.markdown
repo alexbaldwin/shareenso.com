@@ -22,16 +22,12 @@ Share your heartbeat with each other, live, in the moment, during your nightly c
 
 # Difficult conversations in relationships
 
-Every relationship encounters rocky times. Share your heartbeat when words are too hard.
-
-Engage when both of you have slow, steady heartbeats. Take the time to relax when your heart rate spikes. 
+Share your heartbeat when words feel hard. Engage when both of you have slow, steady heartbeats. Take the time to relax when your heart rate spikes. 
 
 Listen to your bodies. Use Enso to get on the same page. Proceed with care for each other's hearts.
 
 # Mindful relationships 
 
-Practice being present with Enso.
-
-Hold Enso once or twice a day for a few minutes. Notice your heartbeat. Is it fast, or slow? Tune into your breathing. Shallow, or deep?
+Practice being present with Enso. Hold Enso once or twice a day for a few minutes. Notice your heartbeat. Is it fast, or slow? Tune into your breathing. Shallow, or deep?
 
 Cultivate awareness of how you're feeling without judgment. Carry this mindfulness with you throughout your day. Share love from this attentive and present place. 
