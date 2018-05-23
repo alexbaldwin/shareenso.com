@@ -10,7 +10,7 @@ layout: post
 
 We relax when we feel the heartbeat of someone we love. Especially our significant other. 
 
-The gentle pulse of our heartbeat connects us. It soothes us. We feel closer. We feel like we belong.
+The gentle pulse of their heartbeat connects us. It soothes us.
 
 We share love by sharing our heartbeat. 
 
@@ -19,8 +19,6 @@ Say "I love you" by giving your heartbeat to your partner.
 # Long distance relationships  
 
 Enso is a magical way for long-distance couples to share love. 
-
-Enso lets us feel the energy and presence of our partner across space and time. 
 
 Capture the heartbeat of your beloved. Carry it throughout your day.
 
@@ -38,34 +36,24 @@ Fall asleep at night holding your love's heartbeat.
 
 Every relationship encounters rocky times. 
 
-Share heartbeats when words stop working.
-
-Use Enso to get on the same page. 
+Share your heartbeat when words are too hard.
 
 Engage when both of you have slow, steady heartbeats. 
 
-Take time to relax when your heart rate spikes. 
+Take the time to relax when your heart rate spikes. 
 
-Listen to your bodies. 
+Listen to your bodies. Use Enso to get on the same page. 
 
 Proceed with care for each other's hearts.
 
 # Mindful relationships 
 
-Our presence and attention is one of the most valuable gifts we can offer.
-
 Practice being present with Enso.
 
 Hold Enso once or twice a day for a few minutes. 
 
-Notice your heartbeat. Is it fast, or slow?
+Notice your heartbeat. Is it fast, or slow? Tune into your breathing. Shallow, or deep?
 
-Tune into your breathing. Shallow, or deep?
-
-Cultivate awareness without judgment. 
-
-Carry this mindfulness with you throughout your day. 
-
-Bring this awareness to every interaction.  
+Cultivate awareness without judgment. Carry this mindfulness with you throughout your day. Bring this awareness to every interaction.  
 
 Share love from this attentive and present place. 
