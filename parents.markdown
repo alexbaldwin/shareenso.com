@@ -7,26 +7,24 @@ layout: post
 ![baby.png](/uploads/baby.png)
 # Capture your baby's heartbeat
 
-You capture your baby's heartbeat in their first days. 
+Capture your baby's heartbeat in their first days. 
 
-You give your newborn's precious heartbeat to your husband to carry when he travels for work.
+Give your newborn's precious heartbeat to your husband to carry when he travels for work.
 
-Your wife is returning to work after maternity leave. You save your baby's heartbeat for her. Your wife carries your child's heartbeat with her to work every day. 
+Save your baby's heartbeat for your wife, who is returning to work after maternity leave. Your wife will carry your child's heartbeat with her to work every day. 
 
-# Your child is growing up 
+# Give your heartbeat to your child  
 
-You give your heartbeat to your child on their first day of school to comfort them. 
+Give your heartbeat to your child on their first day of school to comfort them. 
 
-Your child is starting to stress about school, work and relationships. 
+Teach your child to relax with Enso when they start to stress about school, work and relationships.
 
-You teach them about their heartbeat and how to breathe slowly. They learn to relax with Enso. 
+# Stay close when your child leaves the nest
 
-# Your child leaves the nest 
+Share heartbeats with your child when they go off to college.
 
-You share heartbeats with your child when they go off to college.
-
-You feel each other's live heartbeats on your check-in calls. You know it will help you both with the transition. 
+Feel each other's live heartbeats on your check-in calls.
 
 # A gift for the next generation 
 
-You gift Enso to your child as they start their own family, and the cycle begins again. 
+Gift Enso to your child as they start their own family, and the cycle begins again. 
