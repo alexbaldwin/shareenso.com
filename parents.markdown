@@ -17,7 +17,7 @@ Save your baby's heartbeat for your wife, who is returning to work after materni
 
 Give your heartbeat to your child on their first day of school to comfort them. 
 
-# Help your child relax 
+# Help your child calm down
 
 Teach your child to relax with Enso when they start to stress about school, work and relationships.
 
