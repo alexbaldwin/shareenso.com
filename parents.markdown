@@ -4,8 +4,7 @@ date: 2018-05-21 17:41:00 Z
 layout: post
 ---
 
-![Screen Shot 2018-05-22 at 5.27.27 PM.png](/uploads/Screen%20Shot%202018-05-22%20at%205.27.27%20PM.png)
-
+![baby.png](/uploads/baby.png)
 # Capture your baby's heartbeat
 
 You capture your baby's heartbeat in their first days. 
