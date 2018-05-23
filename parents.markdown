@@ -19,7 +19,7 @@ When your child begins to stress about school, work and relationships, Enso can 
 
 # ... When they leave the nest
 
-When it's time for college, you can get an Enso for your child and for yourself. With two of Enso, you'll be able to share your heartbeat with them live, in the moment, on your check-in calls. You will feel the comfort and connection of each other's heartbeat. 
+When it's time for college, you can get an Enso for your child and for yourself. With two of Enso, you'll be able to share heartbeats live, in the moment, on your check-in calls. You will feel the comfort and connection of each other's heartbeat. 
 
 # And start their own family
 
