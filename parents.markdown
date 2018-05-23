@@ -5,28 +5,22 @@ layout: post
 ---
 
 ![baby.png](/uploads/baby.png)
-# Capture your baby's heartbeat
+# From their first heartbeat...
 
-Capture your baby's heartbeat in their first days. 
+Imagine capturing your baby's heartbeat in their first days. You can give your newborn's precious heartbeat to your husband to carry when he travels for work. Your wife can carry your baby's heartbeat to work with her after maternity leave. 
 
-Give your newborn's precious heartbeat to your husband to carry when he travels for work.
+# ...To their first day of school
 
-Gift your child's heartbeat to your wife as she returns to work after maternity leave. 
+Your child can carry your heartbeat with them to school. If they feel anxious or sad, they will hold your heart. With Enso, your child will feel like you're there with them.
 
-# Give your heartbeat to your child  
+# ...During their growing pains
 
-Offer your heartbeat to your child on their first day of school to comfort them. 
+When your child begins to stress about school, work and relationships, Enso can help guide them to a place of calm and ease. Enso will teach your child to tune into their heartbeat, breathe, and relax. 
 
-# Help your child calm down
+# ... When they leave the nest
 
-Teach your child to relax with Enso when they start to stress about school, work and relationships.
+Get an Enso for your child and for yourself when they go to college. With two of Enso, you'll be able to share your heartbeat with them live, in the moment, on your check-in calls. They will feel the comfort of your heartbeat when they are lonely or homesick.
 
-# Stay close when your child leaves the nest
+# ... And start their own family
 
-Share heartbeats with your child when they go off to college.
-
-Feel each other's live heartbeats on your check-in calls.
-
-# A gift for the next generation 
-
-Gift Enso to your child as they start their own family, and the cycle begins again. 
+As your child meets the love of their life and starts dreaming of their own family, Enso will be there for the young couple to capture your grandchildren's first heartbeats. 
