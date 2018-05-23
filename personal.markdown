@@ -20,6 +20,7 @@ We take a few deep breaths. Inhaling and exhaling with Enso's guiding lights. Al
 
 Carry Enso to work with you in a pocket or purse, or leave it on your desk. Check in with your heart and breath throughout the day. Use Enso to find calm and focus during meetings or before a big presentation. 
 
+
 ![contemplation-walk.jpg](/uploads/contemplation-walk.jpg)
 
 # Live in the moment 
