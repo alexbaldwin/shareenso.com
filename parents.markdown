@@ -29,4 +29,4 @@ You feel each other's live heartbeats on your check-in calls. You know it will h
 
 # A gift for the next generation 
 
-You gift your Enso to your child as they start their own family, and the cycle begins again. 
+You gift Enso to your child as they start their own family, and the cycle begins again. 
