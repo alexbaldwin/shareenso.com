@@ -1,18 +1,18 @@
-<section class="bg-brown py4">
+<section class="bg-white py4">
 
-  <h3 class="serif h2 white center">From the Enso community</h3>
+  <h3 class="serif h2 slate center">From the Enso community</h3>
 
   <div class="main-carousel border-box px3 col-12 md-col-8 lg-col-6 mx-auto" data-flickity='{ "cellAlign": "left", "contain": true, "wrapAround": true, "pageDots": false, "autoPlay": 20000 }'>
 
     {% for q in site.quotes %}
     <div class="carousel-cell col-12" style="">
-      <blockquote class="white">
+      <blockquote class="slate">
           {% for p in q.entry %}
-          <p class="sans p book">
+          <p class="sans p">
             {% if forloop.first %}&ldquo;{% endif %}{{ p }}{% if forloop.last %}&rdquo;{% endif %}
           </p>
     {% endfor %}
-    <cite class="sans p book">{{ q.cite }}</cite>
+    <cite class="sans p">{{ q.cite }}</cite>
       </blockquote>
     </div>
     {% endfor %}
