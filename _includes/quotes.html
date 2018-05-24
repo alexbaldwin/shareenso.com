@@ -8,7 +8,7 @@
     <div class="carousel-cell col-12" style="">
       <blockquote class="slate">
           {% for p in q.entry %}
-          <p class="sans p book">
+          <p class="sans p">
             {% if forloop.first %}&ldquo;{% endif %}{{ p }}{% if forloop.last %}&rdquo;{% endif %}
           </p>
     {% endfor %}
