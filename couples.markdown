@@ -21,9 +21,10 @@ Enso allows you to capture the heartbeat of your beloved. Carry it throughout yo
 
 Share your heartbeat with each other, live, in the moment, during your nightly check-in call. Fall asleep at night holding your love's heartbeat.
 <br>
-![Screen Shot 2018-05-22 at 4.12.45 PM.png](/uploads/Screen%20Shot%202018-05-22%20at%204.12.45%20PM.png)
 
 # Difficult conversations in relationships
+
+![Screen Shot 2018-05-22 at 4.12.45 PM.png](/uploads/Screen%20Shot%202018-05-22%20at%204.12.45%20PM.png)
 
 Share your heartbeat when words feel hard. Engage when both of you have slow, steady heartbeats. Take the time to relax when your heart rate spikes.
 
