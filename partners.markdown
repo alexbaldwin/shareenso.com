@@ -19,6 +19,8 @@ Give yourself love. Tune into the gentle pulse of your own heartbeat, breathe, a
 
 Our referral partnership program is open to top wellness professionals: executive coaches, meditation teachers, fitness trainers and nutritionists.
 
+Our partners care about creating a healthier, more loving world. 
+
 We offer our partners a sliding percentage of the $99 unit price. The percentage is based on the number of units sold in a quarter through referrals. 
 
 Our partners can make between $500 - $25,000 per quarter depending on volume of referral sales. 
