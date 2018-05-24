@@ -1,5 +1,5 @@
 ---
-title: Order an Enso today
+title: Enso
 timezone: UTC
 collections:
   posts:
@@ -25,7 +25,7 @@ defaults:
       width: 600
       height: 415
 permalink: pretty
-description: Keep the heartbeat of someone you love... forever.
+description: 'A new way to share your love '
 image: http://shareenso.com/self-hug.jpg
 email: support@shareenso.com
 baseurl: 
@@ -49,18 +49,18 @@ exclude:
 - vendor/ruby/
 quotes:
 - entry:
-  - I love the idea of Enso, a palpable way to connect with someone who you cannot
-    be with at the moment. I will be capturing the heart beats of my family members…
-  - I am going to be also using to capture the heartbeat of a very close friend that
-    I often miss and will also be gifting it to her.
-  cite: J
-- entry:
   - I am planning to give one to my love and keep one for myself... At first, I just
     wanted to get one for him so that when he’s away, he’d have a physical representation
     of knowing he had my heart with him.
   - When I saw that you could each hold the enso and feel each other’s heartbeat live,
     in the moment, I knew I had to have two.
   cite: Anima
+- entry:
+  - I love the idea of Enso, a palpable way to connect with someone who you cannot
+    be with at the moment. I will be capturing the heart beats of my family members…
+  - I am going to be also using to capture the heartbeat of a very close friend that
+    I often miss and will also be gifting it to her.
+  cite: J
 - entry:
   - My Mom is a Holocaust survivor and is in stages of dementia. My daughter is having
     a baby in 2 weeks and I am planning to give the Enso as a gift to my daughter,
@@ -120,7 +120,12 @@ quotes:
     that guides you through breathing is super great for people with anxiety.
   cite: Lindsey Schaaf
 - entry:
-  - It's a present for my husband who travels a lot. I would like to have our son     's
+  - It's a present for my husband who travels a lot. I would like to have our son's
     heartbeat always with him ❤
   cite: Anonymous
+- entry:
+  - She now has the heartbeats of her grandparents and mother along with my own and
+    our dogs. She likes to use it around night time to help fall asleep or to help
+    calm her down if she feels anxious. It seems to reassure her quite a bit.
+  cite: Seth Martin
 Field name: 
