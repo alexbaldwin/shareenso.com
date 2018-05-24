@@ -15,7 +15,7 @@ When your child starts school, you can give your heartbeat to them. If they feel
 
 # ...During their growing pains
 
-When your child begins to stress about school, work and relationships, Enso can help guide them to a place of calm and ease. Enso will teach your child to tune into their heartbeat, breathe, and relax. 
+When your child begins to stress about school, work and relationships, Enso can help guide them to a place of calm and ease. Enso will teach your child to tune into their heartbeat, breathe, and relax.
 
 # ... When they leave the nest
 
