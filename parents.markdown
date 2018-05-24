@@ -7,7 +7,7 @@ layout: post
 ![baby.png](/uploads/baby.png)
 # From their first heartbeat...
 
-Imagine capturing your baby's heartbeat in their first days. Your husband can carry your newborn's precious heartbeat with him when he travels for work. Your wife can carry your baby's heartbeat to work with her after maternity leave. 
+Imagine capturing your baby's heartbeat in their first days. Your partner can carry your newborn's precious heartbeat with them when they travel for work. Your wife can carry your baby's heartbeat to the office with her after maternity leave. 
 
 # ...To their first day of school
 
