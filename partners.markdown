@@ -17,7 +17,7 @@ Share your live heartbeat with loved ones near or far to connect in the moment.
 
 # Partnership program
 
-Our referral partnership program is open to top wellness professionals: executive coaches, meditation teachers, fitness trainers and nutritionists.
+Our referral partnership program is open to top wellness professionals.
 
 Our partners care about creating a healthier, more loving world. 
 
