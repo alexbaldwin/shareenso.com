@@ -7,7 +7,7 @@ layout: post
 
 ![Untitled.jpg](/uploads/Untitled.jpg)
 
-# Enso is a new way to practice self-care, mindfulness and share love.
+# Enso is a new way to practice self-care, mindfulness, and share love.
 
 Give yourself love with Enso. Tune into the gentle pulse of your own heartbeat, breathe, and relax. 
 
