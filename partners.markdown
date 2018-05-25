@@ -17,9 +17,7 @@ Share your live heartbeat with loved ones near or far to connect in the moment.
 
 # Partnership program
 
-Our referral partnership program is open to top wellness professionals.
-
-Our partners care about creating a healthier, more loving world. 
+Our referral partnership program is open to top wellness professionals. Our partners care about creating a healthier, more loving world. 
 
 We offer our partners a sliding percentage of the $99 unit price. The percentage is based on the number of units sold in a quarter through referrals. 
 
