@@ -196,3 +196,8 @@ body {
 .flickity-prev-next-button .arrow {
   fill: #48494C;
 }
+
+.carousel-cell {
+  top: 50%;
+  transform: translateY(-50%)
+}
