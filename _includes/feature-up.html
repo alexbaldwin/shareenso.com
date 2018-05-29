@@ -1,0 +1,31 @@
+{% assign data = include.data %}
+
+<section class="{{ data.class }}">
+  <div class="container mx-auto">
+    {% for f in data.features %}
+    {% assign even = forloop.index | modulo: 2 %}
+    <div class="md-flex flex-center mb4">
+
+      <div class="col-12 md-col-7" style="{% if even == 0 %}order: 2;{% else%}order: 0;{% endif %}">
+      <div class="col-12 md-col-9 mx-auto">
+        <h2 class="serif h2 px2">{{ f.title }}</h2>
+        <div class="sans p px2">
+          {{ f.text | markdownify }}
+        </div>
+      </div>
+      </div>
+
+      {% if include.large_format == true %}
+      <div class="flex-section sm-col sm-col-12 md-col-7" style="background-image: url('{{ f.image }}')"></div>
+
+      {% else %}
+      <div class="col-12 md-col-5 px4" style="order: 1;">
+        <img class="fit block mb1" src="{{ f.image }}">
+      </div>
+      {% endif %}
+
+    </div>
+    {% endfor %}
+  </div>
+</section>
+
