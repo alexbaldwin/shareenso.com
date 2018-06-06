@@ -1,8 +1,53 @@
 ---
-title: Share Enso
+title: Enso
 permalink: "/"
 layout: default
 curtain: true
+how_it_works:
+  features:
+  - image: "/img/self-hug.jpg"
+    title: Share your heartbeat
+    text: |
+      Hold Enso in your palm. It senses your heartbeat. You feel the gentle pulse in your hand.
+
+      Then the magic happens.
+
+      When you give Enso to someone, they will feel your heartbeat in their hand.
+
+      Use Enso to say I love you.
+
+      Save the heartbeats of people you love... and carry them with you.
+  - image: "/img/family-time.jpg"
+    title: Keep their heartbeat
+    text: |
+      From your newborn child to your aging grandparent, you can keep their heartbeats with you forever.
+
+      Save heartbeats that matter to you on your phone via the Enso app.
+
+      With one tap, Enso will pulse their heartbeat in the palm of your hand.
+features:
+  class: py4 mb3
+  title: Other ways to use Enso
+  center: true
+  features:
+  - icon: "/img/connect-love.png"
+    title: 
+    text: Share your heartbeat in real-time with your loved ones from afar. Feel their
+      heartbeat while on a call. Requires two of Enso.
+    button_url: ''
+    button_text: ''
+  - icon: "/img/share-love.png"
+    title: 
+    text: Capture the heartbeats of all the people you love. Keep them close wherever
+      you go. Save as many heartbeats as you wish.
+    button_url: ''
+    button_text: ''
+  - icon: "/img/self-love.png"
+    title: 
+    text: Connect with your own heartbeat and breath. Use Enso to stay present and
+      relax whenever you need.
+    button_url: ''
+    button_text: ''
 ---
 
 <div class="col-12 js-sticky fixed">
@@ -51,78 +96,13 @@ curtain: true
 
 
   <div id="learn" style="display: block; position: relative; top: -108px; visibility: hidden;"></div>
-  <section class="md-flex flex-center">
-    <div class="flex-section flex-last sm-col sm-col-12 md-col-7" style="background-image: url('/img/self-hug.jpg')"></div>
-    <div class="sm-col sm-col-12 md-col-5 p4">
-      <div class="col-12 md-col-9 mx-auto">
-        <h2 class="serif h2">Share your heartbeat</h2>
-        <p class="sans p">
-          Hold Enso in your palm. It senses your heartbeat. You feel the gentle pulse in your hand. <br> <br> Then the magic happens. <br> <br> When you give Enso to someone, they will feel your heartbeat in their hand. <br> <br> Use Enso to say I love you. <br> <br> Save the heartbeats of people you love... and carry them with you.<p>
-          </div>  
-        </div>
-      </section>
+  {% include feature-up.html data=page.how_it_works large_format=true %}
 
-      <section class="md-flex flex-center">
-        <div class="flex-section sm-col sm-col-12 md-col-7" style="background-image: url('/img/family-time.jpg')"></div>
-        <div class="sm-col sm-col-12 md-col-5 p4">
-          <div class="col-12 md-col-9 mx-auto">
-            <h2 class="serif h2">Keep their heartbeat</h2>
-            <p class="sans p">From your newborn child to your aging grandparent, you can keep their heartbeats with you forever. <br> <br>
-              Save heartbeats that matter to you on your phone via the Enso app. <br><br>With one tap, Enso will pulse their heartbeat in the palm of your hand.  <br><br> 
-            </p>
-          </div>
-        </div>
-      </section>
-
-
-      <section class="clearfix mt4">
-        <div class="flex flex-center mx-auto">
-          <div class="px4 center col-12" >
-            <div class="sm-hide py"><br><br></div>
-            <h2 class="serif p" >Other ways to use Enso</h3>
-          </div>
-        </div>
-
-
-
-        <div id="features" class="md-flex px4 col-12 md-col-10 mx-auto py3 border-box">
-
-          <div class="col-12 md-col-4 px2 flex mb0 border-box">
-            <div class="flex flex-column col-12 ">
-              <img src="/img/connect-love.png" height="100" width="100" class="flex flex-center mx-auto" alt="Connect love">
-              <h3 class="px2 flex-none mt2 mb3 left-align sans p">Share your heartbeat in real-time with your loved ones from afar. Feel their heartbeat while on a call. Requires two of Enso. </h3>
-              <div class="flex-auto"></div>
-
-
-            </div>
-          </div>
-          <div class="col-12 border-box md-col-4 px2 flex mb0">
-            <div class="flex flex-column col-12">
-              <img src="/img/share-love.png" height="100" width="100" class="flex flex-center mx-auto" alt="Share love">
-              <h3 class="px2 flex-none mt2 mb3 left-align sans p">Capture the heartbeats of all the people you love. Keep them close wherever you go. Save as many heartbeats as you wish. </h3>
-              <div class="flex-auto"></div>
-
-
-            </div>
-          </div>
-
-          <div class="col-12 border-box md-col-4 px2 flex mb0">
-            <div class="flex flex-column col-12">
-              <img src="/img/self-love.png" height="100" width="100" class="flex flex-center mx-auto" alt="Love">
-              <h3 class="px2 flex-none mt2 mb3 left-align sans p">Connect with your own heartbeat and breath. Use Enso to stay present and relax whenever you need.</h3>
-
-              <div class="flex-auto"></div>
-
-
-            </div>
-          </div>
-
-
-        </div>
-      </section>
+  <div class="col-12 md-col-10 lg-col-8 mx-auto">
+    {% include feature-wrap.html data=page.features id=features %}
+  </div>
 
       {% include quotes.html %}
-
 
       <div class="bg-white">
       <div class="flex flex-center mx-auto" style="background-size: cover; background-repeat: no-repeat; width: 604px; height: 303px; max-width: 100%;">

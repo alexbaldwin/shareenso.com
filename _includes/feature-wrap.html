@@ -1,0 +1,38 @@
+{% assign data = include.data %}
+
+<section id="{{ include.id }}" class="{{ data.class }} {% if data.center == true %}center{% endif %}">
+  <div class="container mx-auto">
+    <div class="">
+      {% if data.title != "" %}
+      <h3 class="serif p">{{ data.title }}</h3>
+      {% endif %}
+    </div>
+    <div class="md-flex flex-wrap">
+
+      {% for f in data.features %}
+      <div class="col-12 md-col-4 flex flex-column">
+        <div class="p2 flex-auto">
+        {% if f.icon %}
+        <img class="block mb2 {% if data.center == true %}mx-auto{% endif %}" src="{{ f.icon }}" width="100" height="100">
+        {% endif %}
+        {% if f.title != "" %}
+        <h3 class="h3 gray9 semibold mt0 mb2 line-height-4">{{ f.title }}</h3>
+        {% endif %}
+        {% if f.text != "" %}
+        <div class="left-align sans p">{{ f.text | markdownify }}</div>
+        {% endif %}
+      </div>
+        {% if f.button_url != "" %}
+        <p class="m0 px2 left-align flex-none">
+          <a class="peach sans book h5 block" href="{{ f.button_url }}">
+            {{ f.button_text | default: 'Button' }} <span class="inline-block ml1">&rarr;</span>
+          </a>
+        </p>
+        {% endif %}
+      </div>
+      {% endfor %}
+
+    </div>
+  </div>
+</section>
+

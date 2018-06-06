@@ -10,6 +10,9 @@
     <meta content="Order an Enso today" property="og:description">
     <meta content="http://shareenso.com/self-hug.jpg" property="og:image">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% if page.hide == true %}
+      <meta name="robots" content="noindex">
+    {% endif %}
     <link rel="apple-touch-icon" href="apple-touch-icon.png">
     <link href="https://unpkg.com/basscss@7.1.1/css/basscss.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flickity/2.0.9/flickity.min.css" />
