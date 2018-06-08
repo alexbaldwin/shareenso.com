@@ -1,10 +1,9 @@
 ---
-title: parents
+title: Enso for parents
 date: 2018-05-21 17:41:00 Z
 layout: post
 ---
 
-# Enso for parents
 ## Keep your child's heartbeat 
 ![baby.png](/uploads/baby.png)
 # From their first heartbeat...
