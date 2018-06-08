@@ -47,7 +47,6 @@ Field name:
 layout: post
 ---
 
-<h1 class="h1 serif mb2">Frequently asked questions</h1>
 <section class="">
 {% for q in page.questions %}
 <div class="mb2 clearfix">
