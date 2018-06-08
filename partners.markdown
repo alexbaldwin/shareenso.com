@@ -9,9 +9,9 @@ layout: post
 
 # Enso is a new way to practice self-care, mindfulness and share love.
 
-Enso helps you tune into the gentle pulse of your own heartbeat, breathe deeply, and relax. 
+Enso helps you practice self-care. Hold Enso and tune into the the gentle pulse of your own heartbeat. Breathe deeply with Enso's guiding lights and relax.  
 
-Share your heartbeat with loved ones near or far to say "I love you". Capture and keep the heartbeat of someone you love - like your child, partner or grandparent - and carry them with you. 
+Enso also helps you share love with others. Share your heartbeat with someone to say "I love you". Capture and keep the heartbeat of someone you love - like your child, partner or grandparent - and carry them with you. 
 
 # Partnership program
 
