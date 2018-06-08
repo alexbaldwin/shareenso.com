@@ -15,7 +15,7 @@ We relax when we feel the heartbeat of someone we love. The gentle pulse of thei
 
 Sharing your heartbeat with Enso is a meaningful way to say "I Love You."  You simply hold Enso for ten seconds. Then give Enso to your partner. They will feel your heartbeat in their hand. 
 
-# Long distance relationships
+# A gift for long distance relationships
 
 Enso also allows you to save and keep the heartbeat of your beloved, for those times when you are apart. You can carry their love and energy with you throughout your day. Feel the gentle pulse of their heartbeat when you miss them.
 
