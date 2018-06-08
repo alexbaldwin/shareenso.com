@@ -11,22 +11,22 @@ layout: post
 <br>
 ![reserve-two.jpg](/uploads/reserve-two.jpg)
 
-We relax when we feel the heartbeat of someone we love. The gentle pulse of their heartbeat connects us. It soothes us.
+We relax when we feel the heartbeat of someone we love. The gentle pulse of their heartbeat connects us. It soothes us. Our bodies sync with one another's rhythms. 
 
-We share love by sharing our heartbeat. Say "I love you" by giving your heartbeat to your partner.
+Enso allows us to share our heartbeat to say "I Love You." You simply hold Enso for ten seconds. Then give Enso to your partner. They will feel your heartbeat in their hand. 
 
 # Long distance relationships
 
-Enso allows you to capture the heartbeat of your beloved. Carry it throughout your day. Feel the gentle pulse of their heartbeat when you miss them.
+Enso also allows you to save and keep the heartbeat of your beloved, for those times when you are apart. You can carry their love and energy with you throughout your day. Feel the gentle pulse of their heartbeat when you miss them.
 
 Share your heartbeat with each other, live, in the moment, during your nightly check-in call. Fall asleep at night holding your love's heartbeat.
 <br>
 
-# Difficult conversations in relationships
+# When words aren't enough
 
 ![Screen Shot 2018-05-22 at 4.12.45 PM.png](/uploads/Screen%20Shot%202018-05-22%20at%204.12.45%20PM.png)
 
-Share your heartbeat when words feel hard. Engage when both of you have slow, steady heartbeats. Take the time to relax when your heart rate spikes.
+Share your heartbeat when words feel hard. Couples use Enso during to calm down in the heat of an argument. Pause the conversation when Enso's colors reveal that you are agitated. Engage when both of you have slow, steady heartbeats. 
 
 Listen to your bodies. Use Enso to get on the same page. Proceed with care for each other's hearts.
 
