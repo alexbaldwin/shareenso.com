@@ -7,11 +7,11 @@ layout: post
 ![baby.png](/uploads/baby.png)
 # From their first heartbeat...
 
-Imagine capturing your baby's heartbeat in their first days. Your partner can carry your newborn's precious heartbeat with them when they travel for work. Your wife can carry your baby's heartbeat to the office with her after maternity leave. 
+Imagine capturing your baby's heartbeat in their first days. Your partner can carry your newborn's precious heartbeat with them when they travel for work. When maternity or paternity leave ends, you can carry your baby's heartbeat with you to the office. 
 
 # ...To their first day of school
 
-When your child starts school, you can give your heartbeat to them. If they feel anxious or sad, they will hold your heart. With Enso, your child will carry your love and presence with them. 
+Give your heartbeat to your child to carry with them to school. If they feel anxious or sad, they will hold your heart. With Enso, your child will keep a tangible capsule of your love and presence.
 
 # ...During their growing pains
 
