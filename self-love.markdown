@@ -8,7 +8,7 @@ layout: post
 ## You matter.
 ![reserve-four.jpg](/uploads/reserve-four.jpg)
 
-We are precious. Our heart is the first organ that develops in the womb. Our heartbeat is the first vibration we feel. Yet, somewhere along the way, we forget about our heart. 
+Our heart is the first organ that develops in the womb. Our heartbeat is the first vibration we feel. Yet, somewhere along the way, we forget about our heart. 
 
 Our heart, beating steadily, keeping us alive. Our heart, guiding us, giving us information. Our heart, reminding us that we exist, that we matter.
 
