@@ -27,7 +27,7 @@ You can carry their love and energy with you throughout your day. Feel the gentl
 
 ![Screen Shot 2018-05-22 at 4.12.45 PM.png](/uploads/Screen%20Shot%202018-05-22%20at%204.12.45%20PM.png)
 
-Share your heartbeat when words feel hard. Couples use Enso to calm down in the heat of an argument. Pause the conversation when Enso's colors reveal that you are agitated. Engage when both of you have slow, steady heartbeats. 
+Share your heartbeat when words feel hard. Couples use Enso to calm down in the heat of an argument. Pause the conversation when Enso's pulse and colors reveal that you are agitated. Engage when both of you have slow, steady heartbeats. 
 
 Listen to your bodies. Use Enso to get on the same page. Proceed with care for each other's hearts.
 
