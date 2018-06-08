@@ -22,7 +22,8 @@ Enso also allows you to save and keep the heartbeat of your beloved, for those t
 Share your heartbeat with each other, live, in the moment, during your nightly check-in call. Fall asleep at night holding your love's heartbeat.
 <br>
 
-# When words aren't enough
+# Difficult conversations
+## When words aren't enough
 
 ![Screen Shot 2018-05-22 at 4.12.45 PM.png](/uploads/Screen%20Shot%202018-05-22%20at%204.12.45%20PM.png)
 
