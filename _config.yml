@@ -25,7 +25,7 @@ defaults:
       width: 600
       height: 415
 permalink: pretty
-description: 'A new way to share your love '
+description: 'A new way to share love '
 image: http://shareenso.com/self-hug.jpg
 email: support@shareenso.com
 baseurl: 
