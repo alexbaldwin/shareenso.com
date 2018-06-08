@@ -27,6 +27,6 @@ Our breath is always available to us: anytime, anywhere. Yet so few of us are aw
 # Stress relief at work 
 ![contemplation-walk.jpg](/uploads/contemplation-walk.jpg)
 
-The office is a hectic and stressful place for many of us. Enso helps us relax and de-stress during the workday. Check in with your heart and breath during meetings or before a big presentation. Carry Enso to work in your pocket or purse, or leave it on your desk. 
+Work is stressful for many of us. Enso helps us relax and de-stress during the workday. Check in with your heart and breath during meetings or before a big presentation. Carry Enso to work in your pocket or purse, or leave it on your desk. 
 
 
