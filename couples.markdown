@@ -22,7 +22,7 @@ Enso is a profound gift for a long-distance couple. Share your heartbeat with ea
 Enso even allowss you to save and keep the heartbeat of your beloved. You can carry their love and energy with you throughout your day. Feel the gentle pulse of their heartbeat when you miss them. 
 <br>
 
-# Difficult conversations
+# Crucial conversations
 ## When words aren't enough
 
 ![Screen Shot 2018-05-22 at 4.12.45 PM.png](/uploads/Screen%20Shot%202018-05-22%20at%204.12.45%20PM.png)
