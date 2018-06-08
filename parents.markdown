@@ -13,15 +13,15 @@ Imagine capturing your baby's heartbeat in their first days. Your partner can ke
 
 # ...To their first day of school
 
-When your child starts school, you can give them your own heartbeat. If they feel anxious or sad, they will feel your heartbeat. Enso will offer your child a tangible reminder of your love and presence.
+When your child begins school, you can give them your own heartbeat. They will hold your calm, soothing heartbeat if they feel anxious or sad. Enso makes it seem like you're right there with them, even when you are apart. 
 
 # ...During their growing pains
 
-When your child begins to stress about school, work and relationships, Enso can help guide them to a place of calm and ease. Enso will teach your child to tune into their heartbeat, breathe, and relax.
+When your child begins to stress about relationships and school, Enso can help guide them to a place of calm and ease. Enso will teach your child to tune into their heartbeat, breathe, and relax.
 
 # ... When they leave the nest
 
-When it's time for college, you'll add another Enso to your family: one for your child, and one for yourself. With two of Enso, you'll be able to share heartbeats live, in the moment, on your check-in calls. You will feel the comfort and connection of each other's heartbeat from anywhere in the world. 
+When it's time for college, you'll add another Enso to your family: one for your child, and one for you. With two of Enso, you'll be able to feel each other's heartbeat, live, in the moment, on your check-in calls. You will feel the comfort and connection of each other's loving presence from anywhere in the world. 
 
 # And start their own family
 
