@@ -20,9 +20,9 @@ With Enso, you can easily take a few moments to pause throughout your day and ch
 
 # Enso makes self-care feel easy 
 
-Pay attention to Enso's lights, which guide you to breathe deeply and relax. Breathing deeply is one of the most powerful relaxation tools we have, and it's available to us anytime, anywhere. But so few of us are tuned into our breathing. Take a few moments to inhale and exhale, led by Enso. Feel yourself drop into a calmer and more focused state. See Enso's glowing lights shift colors as you relax. 
+Pay attention to Enso's lights, which guide you to breathe deeply and relax. Breathing deeply is one of the most powerful relaxation tools we have.  
 
-Enso is always there for you, just like your heart. 
+Our breath is always available to us: anytime, anywhere. Yet so few of us are aware of our breathing. Take a few moments to inhale and exhale, led by Enso. Feel yourself drop into a calmer and more focused state. You'll receive immediate visceral and visual feedback as you relax.
 
 # Stress relief at work 
 ![contemplation-walk.jpg](/uploads/contemplation-walk.jpg)
