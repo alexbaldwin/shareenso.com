@@ -5,7 +5,7 @@ layout: post
 ---
 
 # Enso for self-love
-## Loving ourselves helps us share love with others
+## You matter.
 ![reserve-four.jpg](/uploads/reserve-four.jpg)
 
 We are precious. Our heart is the first organ that develops in the womb. Our heartbeat is the first vibration we feel. Yet, somewhere along the way, we forget about our heart. 
