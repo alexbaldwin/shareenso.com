@@ -1,0 +1,31 @@
+---
+title: self-love
+date: 2018-05-22 01:53:00 Z
+layout: post
+---
+
+# Enso for self-love
+![reserve-four.jpg](/uploads/reserve-four.jpg)
+
+Our heart is the first organ that develops in the womb. Our heartbeat is the first vibration we feel. Yet, somewhere along the way, we forget about our heart. 
+
+Our heart, beating steadily, keeping us alive. Our heart, guiding us, giving us information. Our heart, reminding us that we exist, that we matter.
+
+We forget to listen to our heart. Enso amplifies our heartbeat to help us remember. 
+
+# Hold your heart in your hand
+
+With Enso, you can easily take a few moments to pause throughout your day and check in. Feel the gentle pulse of your heartbeat in your hand. Notice the intimate connection between your thoughts, breath, and body. 
+
+# Enso makes self-care feel effortless
+
+Pay attention to Enso's lights, which guide you to breathe deeply and relax. Breathing deeply is one of the most powerful relaxation tools we have, and it's available to us anytime, anywhere. But so few of us are tuned into our breathing. Take a few moments to inhale and exhale, led by Enso. Feel yourself drop into a calmer and more focused state.
+
+Enso is always there for you, just like your heart. 
+
+# Stress relief at work 
+![contemplation-walk.jpg](/uploads/contemplation-walk.jpg)
+
+Enso helps us find calm and focus during the workday. Check in with your heart and breath during meetings or before a big presentation. Carry Enso to work in your pocket or purse, or leave it on your desk. 
+
+
