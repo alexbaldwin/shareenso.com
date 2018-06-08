@@ -5,8 +5,6 @@ permalink: "/termsofsale/"
 layout: post
 ---
 
-# Terms of sale
-
 Please read the following terms and conditions of sale carefully before purchasing this Product. By purchasing our Products you acknowledge that you have read these terms of sale and agree to be bound by them. You also acknowledge that you are ordering and paying for a Product that is expected to ship within the next 7 months (but no guarantee as to when). ALL SALES ARE FINAL AND PRODUCT ORDER IS NON-REFUNDABLE AND NON CANCELABLE.
 
 ### SECTION 1 - SCOPE OF TERMS

@@ -1,11 +1,9 @@
 ---
-title: About
+title: Letter from Enso's founder
 date: 2017-11-29 01:31:00 Z
 permalink: "/about/"
 layout: post
 ---
-
-# Letter from Enso's founder
 
 I created Enso because I needed it to exist. For much of my life, I lived in my head. I wasn't fully connected to my body and to those I love.
 

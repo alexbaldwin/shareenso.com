@@ -1,10 +1,10 @@
 ---
-title: self-love
+title: Enso for self-love
 date: 2018-05-22 01:53:00 Z
 layout: post
 ---
 
-# Enso for self-love
+
 ## Your heart matters
 ![reserve-four.jpg](/uploads/reserve-four.jpg)
 
