@@ -5,6 +5,8 @@ permalink: "/partners"
 layout: post
 ---
 
+<br> 
+<br>
 ![Untitled.jpg](/uploads/Untitled.jpg)
 
 # Enso is a new way to practice self-care, mindfulness and share love.

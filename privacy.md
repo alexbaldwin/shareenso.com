@@ -5,6 +5,8 @@ permalink: "/privacy/"
 layout: post
 ---
 
+<br> 
+<br>
 ### SECTION 1 – WHAT DO WE DO WITH YOUR INFORMATION?
 
 When you purchase something from our store, as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address.
