@@ -5,8 +5,6 @@ permalink: "/termsofservice/"
 layout: post
 ---
 
-# Terms of service
-
 ### OVERVIEW 
 
 This website is operated by Enso Co.. Throughout the site, the terms “we”, “us” and “our” refer to Enso Co.. Enso Co. offers this website, including all information, tools and services available from this site to you, the user, conditioned upon your acceptance of all terms, conditions, policies and notices stated here.
