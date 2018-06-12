@@ -5,6 +5,8 @@ permalink: "/about/"
 layout: post
 ---
 
+<br>
+<br> 
 I created Enso because I needed it to exist. For much of my life, I lived in my head. I wasn't fully connected to my body and to those I love.
 
 Then I started to meditate. While meditating, I felt my heartbeat. Feeling my heartbeat was calming. It reminded me that I exist, that I matter.
