@@ -11,7 +11,7 @@ layout: post
 
 Hold Enso in your hand. It senses your heartbeat. You feel the gentle pulse of your heartbeat in your hand, instantly reconnecting you to your body. Beautiful lights glow brighter and dimmer to guide you to breathe deeply and relax. The lights shift colors as your heart rate slows.
 
-## Give your heartbeat to your beloved 
+## Give your heart to your beloved 
 
 Enso allows you to give your heartbeat to the person you love. They will feel exactly what you're feeling in that moment. Sharing your heartbeat helps to deepen connection and intimacy. 
 
