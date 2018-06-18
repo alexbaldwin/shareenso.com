@@ -1,5 +1,5 @@
 ---
-title: Enso for self-love
+title: Enso for self-care
 date: 2018-05-22 01:53:00 Z
 layout: post
 ---
