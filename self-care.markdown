@@ -13,13 +13,13 @@ layout: post
 
 Hold Enso in your hand. It senses your heartbeat. You feel the gentle pulse of your heartbeat in your hand, instantly reconnecting you to your body. Beautiful lights glow brighter and dimmer to guide you to breathe deeply and relax. The lights shift colors as your heart rate slows.
 
-## Meditate with Enso 
-
-Enso provides a point of focus while meditating, just like your breath, sound, or a candle in other practices. The visual and tactile feedback help you recognize when your mind has wandered. Enso will help get you back into your body, and it will guide you back to a place of focus and calm. 
-
 ## Relax with Enso
 
-Regardless of whether you meditate or not, Enso is a tool for self-connection and relaxation. Feeling your heartbeat helps you notice the intimate connection between your mood, thoughts, and heart. When your heart is beating quickly, you can consciously relax. Enso's lights guide you to a slow breathing pattern called 'Box Breathing' by default. This pattern of breathing is used by the Navy Seals to relax. 
+Enso is a tool for self-connection and relaxation. Feeling your heartbeat helps you notice the intimate connection between your mood, thoughts, and heart. When your heart is beating quickly, you can consciously relax. Enso's lights guide you to a slow breathing pattern called 'Box Breathing' by default. This pattern of breathing is used by the Navy Seals to relax. 
+
+## Meditate with Enso 
+
+Enso provides a point of focus while meditating, just like your breath, sound, or a candle. The visual and tactile feedback help you recognize when your mind has wandered. Enso will help get you back into your body, and it will guide you back to a place of focus and calm. 
 
 ## Be Present
 
