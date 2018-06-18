@@ -4,7 +4,8 @@ date: 2018-05-22 01:53:00 Z
 layout: post
 ---
 
-
+<br> 
+<br>
 
 ![reserve-four.jpg](/uploads/reserve-four.jpg)
 
@@ -20,7 +21,11 @@ Enso provides a point of focus while meditating, just like your breath, sound, o
 
 Regardless of whether you meditate or not, Enso is a tool for self-connection and relaxation. Feeling your heartbeat helps you notice the intimate connection between your mood, thoughts, and heart. When your heart is beating quickly, you can consciously relax. Enso's lights guide you to a slow breathing pattern called 'Box Breathing' by default. This pattern of breathing is used by the Navy Seals to relax. 
 
-# Check in with yourself
+## Be Present
+
+Our attention and awareness is one of the greatest gifts we can offer in our personal and professional relationships. Enso helps you immediately feel grounded in the present moment. It's small enough that you can carry it with you and inconspicuously hold it whenever you need to get out of your head and back into the moment. 
+
+## Check in with yourself
 
 With Enso, you can easily take a few moments to pause throughout your day and check in. Check in with your heart and breath during meetings or before a big presentation. Carry Enso to work in your pocket or purse, or leave it on your desk. 
 
